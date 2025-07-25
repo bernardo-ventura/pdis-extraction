@@ -44,7 +44,7 @@ def gerar_extracao_gemini_por_bloco(blocos):
     modelo = genai.GenerativeModel("gemini-1.5-flash")  # Use "gemini-1.5-pro" se quiser mais precisão
     resultados = []
 
-    for i, bloco in enumerate(blocos[:2]):
+    for i, bloco in enumerate(blocos):
         prompt = gerar_prompt(bloco)
         try:
             print(f"Processando bloco {i + 1}/{len(blocos)}...")
@@ -87,14 +87,25 @@ def combinar_resultados_json(resultados):
 
 # Execução principal
 if __name__ == "__main__":
-    caminho_pdf = "pdi-aratum.pdf"  # substitua se o nome for outro
-    texto = extrair_texto_pdf(caminho_pdf)
-    blocos = dividir_texto(texto)
-    resultados_brutos = gerar_extracao_gemini_por_bloco(blocos)
-    resultado_final = combinar_resultados_json(resultados_brutos)
+    pasta_pdfs = "pdfs"  # nome da pasta com os PDFs
+    if not os.path.exists(pasta_pdfs):
+        print(f"Pasta '{pasta_pdfs}' não encontrada.")
+        exit(1)
 
-    print("\n--- Resultado Final ---\n")
-    print(json.dumps(resultado_final, indent=2, ensure_ascii=False))
+    arquivos_pdf = [f for f in os.listdir(pasta_pdfs) if f.lower().endswith('.pdf')]
+    if not arquivos_pdf:
+        print(f"Nenhum PDF encontrado na pasta '{pasta_pdfs}'.")
+        exit(1)
 
-    with open("extracao_estruturada.json", "w", encoding="utf-8") as f:
-        json.dump(resultado_final, f, ensure_ascii=False, indent=2)
+    for nome_pdf in arquivos_pdf:
+        caminho_pdf = os.path.join(pasta_pdfs, nome_pdf)
+        print(f"\nProcessando: {nome_pdf}")
+        texto = extrair_texto_pdf(caminho_pdf)
+        blocos = dividir_texto(texto)
+        resultados_brutos = gerar_extracao_gemini_por_bloco(blocos)
+        resultado_final = combinar_resultados_json(resultados_brutos)
+
+        nome_saida = f"extracao_estruturada_{os.path.splitext(nome_pdf)[0]}.json"
+        with open(nome_saida, "w", encoding="utf-8") as f:
+            json.dump(resultado_final, f, ensure_ascii=False, indent=2)
+        print(f"Resultado salvo em: {nome_saida}")

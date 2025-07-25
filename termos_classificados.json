@@ -1,0 +1,6758 @@
+{
+  "conceitos": [
+    {
+      "termo": "fpso floating production storage and offloading",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "pocos",
+      "area": "técnico"
+    },
+    {
+      "termo": "unidade de producao maritima",
+      "area": "técnico"
+    },
+    {
+      "termo": "modulos",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de manutencao da posicao",
+      "area": "técnico"
+    },
+    {
+      "termo": "dutos",
+      "area": "técnico"
+    },
+    {
+      "termo": "rejeitos radioativos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "produtos quimicos",
+      "area": "técnico"
+    },
+    {
+      "termo": "alternativas de descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "linhas flexiveis",
+      "area": "técnico"
+    },
+    {
+      "termo": "umbilicais",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de ancoragem",
+      "area": "técnico"
+    },
+    {
+      "termo": "analises de riscos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "fpso unidade flutuante de producao armazenamento e descarregamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "gasoduto",
+      "area": "técnico"
+    },
+    {
+      "termo": "oleoduto",
+      "area": "técnico"
+    },
+    {
+      "termo": "risers",
+      "area": "técnico"
+    },
+    {
+      "termo": "abandono permanente",
+      "area": "técnico"
+    },
+    {
+      "termo": "aguas jurisdicionais brasileiras ajb",
+      "area": "econômico"
+    },
+    {
+      "termo": "avaliacao de impactos ambientais aia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "bioincrustacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de coleta manuseio e disposicao final de residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "sistema de geracao e distribuicao de energia",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistemas de tancagem",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de ancoragem posicionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "agua oleosa",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "amarras de topo",
+      "area": "técnico"
+    },
+    {
+      "termo": "amarras de fundo",
+      "area": "técnico"
+    },
+    {
+      "termo": "coprocessamento em cimenteiras",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "skids de anodos",
+      "area": "técnico"
+    },
+    {
+      "termo": "pesos mortos",
+      "area": "técnico"
+    },
+    {
+      "termo": "sucatas",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "regulamento tecnico de descomissionamento de instalacoes de exploracao e de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de gerenciamento da seguranca operacional sgso",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "sistema de gerenciamento de seguranca operacional de sistemas submarinos sgss",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "identificacao e avaliacao de impactos ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "projeto de controle da poluicao",
+      "area": "ambiental"
+    },
+    {
+      "termo": "sistema submarino",
+      "area": "técnico"
+    },
+    {
+      "termo": "descricao da unidade maritima dum",
+      "area": "técnico"
+    },
+    {
+      "termo": "inspecoes periodicas e manutencao preventiva dos equipamentos",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano de resposta a emergencia pre",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "programa de descomissionamento do fpso p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "manutencao preventiva",
+      "area": "técnico"
+    },
+    {
+      "termo": "vazamento de oleo diesel",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "lamina dagua",
+      "area": "técnico"
+    },
+    {
+      "termo": "uso e ocupacao do solo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "impactos ambientais efetivos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "impactos ambientais potenciais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "ictiofauna",
+      "area": "ambiental"
+    },
+    {
+      "termo": "impactos ambientais de pequena media e grande importancia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "sensibilidade ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pequeno vazamento de oleo diesel para o mar ate 8 m3",
+      "area": "ambiental"
+    },
+    {
+      "termo": "medio vazamento de oleo diesel para o mar de 8 a 200 m3",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fpso unidade de producao armazenamento e transferencia de petroleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano de emergencia individual da plataforma",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "plano de resposta a emergencias da plataforma",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "plano de emergencia para vazamento de oleo na area geografica da bacia de campos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "vazamento de oleo diesel para o mar acima de 200 m3",
+      "area": "ambiental"
+    },
+    {
+      "termo": "treinamento para situacoes de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "plano de emergencia individual pei",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "plano de emergencia para vazamentos de oleo pevo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "descomissionamento da plataforma",
+      "area": "técnico"
+    },
+    {
+      "termo": "bancos biogenicos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "bancos de corais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "flowlines",
+      "area": "técnico"
+    },
+    {
+      "termo": "impactos socioeconomicos",
+      "area": "econômico"
+    },
+    {
+      "termo": "descomissionamento de instalacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "risco social e um evento incerto decorrente das decisoes e atividades diretas e indiretas da petrobras e de fatores externos que se ocorrerem podem impactar os direitos humanos os meios de vida e a dinamica socioeconomica de uma regiao",
+      "area": "social"
+    },
+    {
+      "termo": "relacionamento comunitario constitui um processo de longo prazo baseado no dialogo na transparencia e na coerencia entre o posicionamento da companhia e as acoes implementadas",
+      "area": "social"
+    },
+    {
+      "termo": "relacionamento comunitario constitui um processo de longo prazo baseado no dialogo na transparencia e na coerencia entre o posicionamento da companhia e as acoes implementadas devendo ser sistematizado e realizado continuamente durante todo o ciclo de vida dos negocios",
+      "area": "social"
+    },
+    {
+      "termo": "direitos humanos",
+      "area": "social"
+    },
+    {
+      "termo": "projetos socioambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "cadastro tecnico federal de atividades e instrumentos de defesa ambiental ctfaida",
+      "area": "ambiental"
+    },
+    {
+      "termo": "cadastro tecnico federal de atividades e instrumentos de defesa ambiental ctfaida constitui declaracao pela pessoa fisica do cumprimento de exigencias especificas de qualificacao ou de limites de atuacao que porventura sejam determinados pelo respectivo conselho de fiscalizacao profissional",
+      "area": "ambiental"
+    },
+    {
+      "termo": "base de concreto",
+      "area": "técnico"
+    },
+    {
+      "termo": "antepoco aberto",
+      "area": "técnico"
+    },
+    {
+      "termo": "revestimento",
+      "area": "técnico"
+    },
+    {
+      "termo": "tecnica nucleadora de grupos de anderson",
+      "area": "técnico"
+    },
+    {
+      "termo": "subsolagem",
+      "area": "técnico"
+    },
+    {
+      "termo": "recuperacao ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "sistema de gas combustivel",
+      "area": "técnico"
+    },
+    {
+      "termo": "linha de servico",
+      "area": "técnico"
+    },
+    {
+      "termo": "injecao de agua",
+      "area": "técnico"
+    },
+    {
+      "termo": "poco produtor",
+      "area": "técnico"
+    },
+    {
+      "termo": "responsabilidade social",
+      "area": "social"
+    },
+    {
+      "termo": "analise preliminar de perigos app",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "programa de descomissionamento de instalacoes pdi",
+      "area": "técnico"
+    },
+    {
+      "termo": "impacto ambiental de pequena importancia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "impacto ambiental de media importancia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "plano de emergencia para vazamento de oleo na area geografica do espirito santo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "importancia do impacto alta media",
+      "area": "ambiental"
+    },
+    {
+      "termo": "impacto ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "certificado de regularidade cr",
+      "area": "econômico"
+    },
+    {
+      "termo": "descomissionamento de instalacoes maritimas",
+      "area": "técnico"
+    },
+    {
+      "termo": "abandono temporario",
+      "area": "técnico"
+    },
+    {
+      "termo": "umbilical eletrohidraulico ueh",
+      "area": "técnico"
+    },
+    {
+      "termo": "norm naturally occurring radioactive material",
+      "area": "ambiental"
+    },
+    {
+      "termo": "arvore de natal molhada anm",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de gerenciamento da seguranca operacional das instalacoes maritimas de perfuracao e producao de petroleo e gas natural sgso",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "sistema de gerenciamento da integridade de pocos sgip",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano de monitoramento posdescomissionamento pmpd",
+      "area": "ambiental"
+    },
+    {
+      "termo": "bioincrustacao marinha",
+      "area": "ambiental"
+    },
+    {
+      "termo": "sistema de gestao de responsabilidade social",
+      "area": "social"
+    },
+    {
+      "termo": "spa sistema de producao antecipada",
+      "area": "técnico"
+    },
+    {
+      "termo": "uep unidade estacionaria de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "dutos rigidos",
+      "area": "técnico"
+    },
+    {
+      "termo": "teste de longa duracao tld",
+      "area": "técnico"
+    },
+    {
+      "termo": "unidades de conservacao ucs",
+      "area": "ambiental"
+    },
+    {
+      "termo": "impacto ambiental de pequena magnitude",
+      "area": "ambiental"
+    },
+    {
+      "termo": "ahts anchor handling tug supply",
+      "area": "técnico"
+    },
+    {
+      "termo": "impacto de pequena magnitude e pequena importancia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fpso floating production storage and offloading e uma unidade flutuante para producao armazenamento e descarregamento de petroleo e gas",
+      "area": "técnico"
+    },
+    {
+      "termo": "impacto nao cumulativo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "comunidade bentonica",
+      "area": "ambiental"
+    },
+    {
+      "termo": "sensibilidade do fator ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "recursos pesqueiros",
+      "area": "ambiental"
+    },
+    {
+      "termo": "recifes artificiais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "medidas mitigadoras",
+      "area": "ambiental"
+    },
+    {
+      "termo": "gee gases de efeito estufa",
+      "area": "ambiental"
+    },
+    {
+      "termo": "especies exoticas",
+      "area": "ambiental"
+    },
+    {
+      "termo": "agua de lastro",
+      "area": "ambiental"
+    },
+    {
+      "termo": "impacto de grande magnitude e grande importancia",
+      "area": "indefinido"
+    },
+    {
+      "termo": "uma colisao com navio pode ser definida como um forte impacto entre qualquer parte da embarcacao sendo mais comum o casco e a helice e um cetaceo vivo muitas vezes resultando em morte ou trauma fisico",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "unidade de producao fpso",
+      "area": "técnico"
+    },
+    {
+      "termo": "projeto de educacao ambiental dos trabalhadores peat",
+      "area": "social"
+    },
+    {
+      "termo": "projeto de monitoramento de praias pmp",
+      "area": "ambiental"
+    },
+    {
+      "termo": "impacto ambiental direto de tempo de incidencia imediato duracao imediata reversivel cumulativo e intermitente",
+      "area": "ambiental"
+    },
+    {
+      "termo": "abrangencia espacial regional",
+      "area": "econômico"
+    },
+    {
+      "termo": "impactos ambientais imp",
+      "area": "ambiental"
+    },
+    {
+      "termo": "transito de embarcacoes asp 7",
+      "area": "técnico"
+    },
+    {
+      "termo": "introducao de especies exoticas",
+      "area": "ambiental"
+    },
+    {
+      "termo": "magnitude do impacto",
+      "area": "ambiental"
+    },
+    {
+      "termo": "especies exoticas invasoras",
+      "area": "ambiental"
+    },
+    {
+      "termo": "aspectos ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fatores ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "baixa magnitude do impacto",
+      "area": "ambiental"
+    },
+    {
+      "termo": "impacto ambiental classificado como potencial negativo direto de incidencia imediata suprarregional de duracao imediata temporario reversivel e indutor",
+      "area": "ambiental"
+    },
+    {
+      "termo": "vazamento de oleo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "impacto potencial negativo direto de incidencia imediata suprarregional de duracao imediata reversivel e indutor",
+      "area": "ambiental"
+    },
+    {
+      "termo": "areas de preservacao permanente app",
+      "area": "ambiental"
+    },
+    {
+      "termo": "atividade pesqueira artesanal",
+      "area": "social"
+    },
+    {
+      "termo": "atividade pesqueira industrial",
+      "area": "ambiental"
+    },
+    {
+      "termo": "trafego maritimo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "programa de comunicacao social regional da bacia de santos pcsrbs",
+      "area": "social"
+    },
+    {
+      "termo": "impacto ambiental negativo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fator ambiental de media sensibilidade",
+      "area": "ambiental"
+    },
+    {
+      "termo": "politica nacional de residuos solidos pnrs",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "pdi conceitual",
+      "area": "técnico"
+    },
+    {
+      "termo": "toxicidade para orgaosalvo especificos exposicao unica e repetida",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "riscos sociais",
+      "area": "social"
+    },
+    {
+      "termo": "pull out de 1a extremidade recolhimento do duto flexivel que inicia com a desconexao do riser na plataforma",
+      "area": "técnico"
+    },
+    {
+      "termo": "agua oleosa desenquadrada",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "ressuspensao de sedimentos marinhos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "compressao dos organismos",
+      "area": "técnico"
+    },
+    {
+      "termo": "modificacao da morfologia superficial do assoalho marinho",
+      "area": "ambiental"
+    },
+    {
+      "termo": "alteracao das caracteristicas fisicoquimicas da agua",
+      "area": "ambiental"
+    },
+    {
+      "termo": "deslocamento dos individuos atracaoafugentamento",
+      "area": "social"
+    },
+    {
+      "termo": "impacto de duracao imediata temporario e reversivel",
+      "area": "ambiental"
+    },
+    {
+      "termo": "alta sensibilidade",
+      "area": "técnico"
+    },
+    {
+      "termo": "pdi executivo",
+      "area": "econômico"
+    },
+    {
+      "termo": "descomissionamento dos sistemas de producao de marlim e voador",
+      "area": "técnico"
+    },
+    {
+      "termo": "permanencia definitiva in situ",
+      "area": "técnico"
+    },
+    {
+      "termo": "fauna bentonica",
+      "area": "ambiental"
+    },
+    {
+      "termo": "remocao parcial",
+      "area": "técnico"
+    },
+    {
+      "termo": "corais de profundidade",
+      "area": "ambiental"
+    },
+    {
+      "termo": "remocao completa",
+      "area": "técnico"
+    },
+    {
+      "termo": "deixar tudo no local",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "recifes de profundidade",
+      "area": "técnico"
+    },
+    {
+      "termo": "probabilidade de presenca de espessuras no fundo marinho",
+      "area": "técnico"
+    },
+    {
+      "termo": "espessura maxima no fundo marinho",
+      "area": "técnico"
+    },
+    {
+      "termo": "datum sirgas2000",
+      "area": "técnico"
+    },
+    {
+      "termo": "concentracao de solidos em suspensao ppm",
+      "area": "técnico"
+    },
+    {
+      "termo": "distribuicao granulometrica dos solidos",
+      "area": "técnico"
+    },
+    {
+      "termo": "plumas de solidos em suspensao",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pilhas de deposicao",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "limiar de monitoramento",
+      "area": "técnico"
+    },
+    {
+      "termo": "modelagem da dispersao de solidos",
+      "area": "técnico"
+    },
+    {
+      "termo": "modelagem hidrodinamica",
+      "area": "técnico"
+    }
+  ],
+  "processos": [
+    {
+      "termo": "fechamento dos pocos e parada de producao fase a",
+      "area": "técnico"
+    },
+    {
+      "termo": "limpeza dos dutos do sistema de coleta oleoduto e gasoduto fase b",
+      "area": "técnico"
+    },
+    {
+      "termo": "desconexoes das linhas e umbilicais nos equipamentos submarinos fase c",
+      "area": "técnico"
+    },
+    {
+      "termo": "pull out e recolhimento dos risers fase d",
+      "area": "técnico"
+    },
+    {
+      "termo": "despressurizacao drenagem limpeza e inertizacao de equipamentos e tubulacoes da planta de processamento fase e",
+      "area": "técnico"
+    },
+    {
+      "termo": "tratamento e destinacao dos efluentes oleosos fase g",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "remocao e transporte de produtos quimicos fase h",
+      "area": "técnico"
+    },
+    {
+      "termo": "desconexao do sistema de ancoragem e destinacao da plataforma fase i",
+      "area": "técnico"
+    },
+    {
+      "termo": "destinacao de materiais residuos e rejeitos presentes nas instalacoes fase j",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "destinacao de residuos e rejeitos gerados",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "destinacao dos rejeitos radioativos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "destinacao da bioincrustacao",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "remocao de skids de anodos pesos mortos e sucatas fase k",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "pull out e recolhimento de risers",
+      "area": "técnico"
+    },
+    {
+      "termo": "recolhimento das flowlines",
+      "area": "técnico"
+    },
+    {
+      "termo": "limpeza dos tanques de carga",
+      "area": "técnico"
+    },
+    {
+      "termo": "descomissionamento do fpso p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "inspecao de dutos",
+      "area": "técnico"
+    },
+    {
+      "termo": "inspecoes especificas para mapeamento de sucatas no leito marinho",
+      "area": "ambiental"
+    },
+    {
+      "termo": "leilao para alienacao da plataforma",
+      "area": "econômico"
+    },
+    {
+      "termo": "abandono permanente de pocos",
+      "area": "técnico"
+    },
+    {
+      "termo": "recolhimento de amarras de topo e cabos de aco",
+      "area": "técnico"
+    },
+    {
+      "termo": "permanencia definitiva in situ de amarras de fundo e estacas",
+      "area": "técnico"
+    },
+    {
+      "termo": "desancoragem da plataforma pela petrobras",
+      "area": "técnico"
+    },
+    {
+      "termo": "destinacao ambientalmente adequada a unidade",
+      "area": "ambiental"
+    },
+    {
+      "termo": "descomissionamento da p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "desconexao do riser na plataforma",
+      "area": "técnico"
+    },
+    {
+      "termo": "remocao de bioincrustacao por raspagem com cabos de polipropileno",
+      "area": "técnico"
+    },
+    {
+      "termo": "despressurizacao drenagem e limpeza da planta de processamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "abandono permanente 7mrl88hrjs fase 1 fase 2",
+      "area": "técnico"
+    },
+    {
+      "termo": "apresentacao do memorial descritivo a autoridade maritima brasileira",
+      "area": "técnico"
+    },
+    {
+      "termo": "remocao de produtos quimicos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "recolhimento do riser",
+      "area": "técnico"
+    },
+    {
+      "termo": "processo administrativo na anp",
+      "area": "indefinido"
+    },
+    {
+      "termo": "distribuicao do gas inerte para os tanques de carga",
+      "area": "técnico"
+    },
+    {
+      "termo": "armazenamento de produtos quimicos perigosos segundo regras de compatibilidade quimica",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "descarregamento dos tanques atraves do processo de offloading",
+      "area": "técnico"
+    },
+    {
+      "termo": "identificacao de focos iniciais de incendio pelos detectores de fogo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "remocao da vitima para local ventilado em caso de inalacao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "lavagem das maos e rosto apos o manuseio",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "avaliacao dos riscos ambientais utilizando a norma petrobras n2782 rev d",
+      "area": "ambiental"
+    },
+    {
+      "termo": "elaboracao da planilha de hipoteses acidentais",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pull out e recolhimento dos risers flexiveis",
+      "area": "técnico"
+    },
+    {
+      "termo": "seguir programa de inspecoes periodicas e manutencao preventiva dos equipamentos envolvidos na operacao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "seguir as medidas preventivas e mitigadoras apontadas nas apr realizadas previamente a execucao das atividades",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "acionar o pei da unidade",
+      "area": "técnico"
+    },
+    {
+      "termo": "acionar o pevo da unbc",
+      "area": "técnico"
+    },
+    {
+      "termo": "observar planejamento previo da operacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "inspecaocertificacao dos equipamentos do guincho utilizados na operacao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "acionar o plano de resposta a emergencia pre da unbc se necessario",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "seguir programa de treinamento para as situacoes de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "seguir procedimento operacional relativo a abastecimento de diesel",
+      "area": "técnico"
+    },
+    {
+      "termo": "realizar inspecoes visuais periodicamente nos mangotes e tomadas de diesel",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "acionar plano sopep da embarcacao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "seguir os procedimentos de comunicacao entre helicoptero e navio antes de decolar ou aterrissar",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "seguir procedimentos de seguranca voo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "seguir programa de contratacao de mao de obra qualificada",
+      "area": "social"
+    },
+    {
+      "termo": "seguir procedimentos de seguranca para aproximacao de plataformas maritimas e embarcacoes",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "durante o descomissionamento as operacoes serao assistidas",
+      "area": "técnico"
+    },
+    {
+      "termo": "acionar o pevo da unbc se necessario",
+      "area": "técnico"
+    },
+    {
+      "termo": "seguir procedimentos operacionais para operacoes de offloading",
+      "area": "técnico"
+    },
+    {
+      "termo": "operacoes de reabastecimento de diesel",
+      "area": "técnico"
+    },
+    {
+      "termo": "operacoes com helicoptero",
+      "area": "técnico"
+    },
+    {
+      "termo": "limpeza dos dutos e equipamentos submarinos fase b",
+      "area": "técnico"
+    },
+    {
+      "termo": "desconexao das linhas flexiveis nos equipamentos submarinos fase c",
+      "area": "técnico"
+    },
+    {
+      "termo": "operacoes de navegacao e recolhimento das linhas e equipamentos submarinos com velocidade reduzida",
+      "area": "técnico"
+    },
+    {
+      "termo": "movimentacao de embarcacoes de apoio e deslocamento de linhas ao longo da coluna dagua",
+      "area": "técnico"
+    },
+    {
+      "termo": "movimentacao de equipamentos de apoio no leito marinho",
+      "area": "técnico"
+    },
+    {
+      "termo": "movimentacao de linhas no leito marinho",
+      "area": "técnico"
+    },
+    {
+      "termo": "desconexao do sistema de ancoragem",
+      "area": "técnico"
+    },
+    {
+      "termo": "destinacao da plataforma",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "corte de linhas",
+      "area": "técnico"
+    },
+    {
+      "termo": "descarte de efluentes sanitarios e residuos alimentares",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "assistir a realizacao da operacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "acionar o plano de emergencia individual da plataforma",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "acionar o plano de resposta a emergencias da plataforma",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "acionar o plano de emergencia para vazamento de oleo na area geografica da bacia de campos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "seguir programa de inspecoes periodicas e manutencao preventiva dos equipamentos",
+      "area": "técnico"
+    },
+    {
+      "termo": "seguir procedimentos de movimentacao de cargas",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "acionar o plano de emergencia individual da plataforma o plano de resposta a emergencias da plataforma ou plano de emergencia para vazamento de oleo na area geografica da bacia de campos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "realizar inspecoes periodicas e testes necessarios a manutencao dos equipamentos e mangotes de transferencia de diesel",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "utilizar mangote flutuante no reabastecimento de diesel",
+      "area": "técnico"
+    },
+    {
+      "termo": "desancoragem da plataforma",
+      "area": "técnico"
+    },
+    {
+      "termo": "cumprimento de procedimentos de seguranca e padroes",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "monitoramento e controle do vazamento tipo de oleo grau de toxicidade distancia da costa ecossistemas impactados extensao das areas atingidas tempo de exposicao acoes de limpeza realizadas epoca do ano",
+      "area": "ambiental"
+    },
+    {
+      "termo": "monitoramento de parametros visuais fisicos quimicos biologicos e ecologicos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "estudo e planejamento previo da rota das embarcacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "atendimento aos programas de inspecoes periodicas e manutencao preventiva e corretiva dos equipamentos",
+      "area": "técnico"
+    },
+    {
+      "termo": "divulgacao do descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "operacionalizacao do descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "termino do descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "abandono e fechamento dos pocos",
+      "area": "técnico"
+    },
+    {
+      "termo": "recomposicao posterior das condicoes que favorecem o restabelecimento das atividades interrompidas",
+      "area": "técnico"
+    },
+    {
+      "termo": "cessacao da geracao de residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "diminuicao da arrecadacao publica",
+      "area": "econômico"
+    },
+    {
+      "termo": "diminuicao da pressao sobre a infraestrutura portuaria",
+      "area": "econômico"
+    },
+    {
+      "termo": "identificar analisar e tratar os riscos sociais decorrentes da interacao entre os negocios a sociedade e o meio ambiente",
+      "area": "social"
+    },
+    {
+      "termo": "fomentar a gestao de aspectos socioambientais na cadeia de fornecedores",
+      "area": "ambiental"
+    },
+    {
+      "termo": "agir com transparencia junto as comunidades potencialmente afetadas por meio de iniciativas de consulta livre previa e informada",
+      "area": "social"
+    },
+    {
+      "termo": "manter canais de dialogo para fortalecer o relacionamento comunitario",
+      "area": "social"
+    },
+    {
+      "termo": "gerir riscos sociais e o relacionamento comunitario",
+      "area": "social"
+    },
+    {
+      "termo": "inventario das instalacoes a serem descomissionadas pocos unidades de producao terrestre dutos de escoamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "gerenciamento de residuos rejeitos e efluentes",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "recuperacao ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "projeto de descomissionamento das instalacoes pocos e demais instalacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano de recuperacao ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "retirar a coluna de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "condicionar revestimento",
+      "area": "técnico"
+    },
+    {
+      "termo": "retirar os equipamentos de superficie e cortar tubo condutor revestimento de superficie e revestimento de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "subsolagem descompactar o solo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "irrigacao do plantio",
+      "area": "ambiental"
+    },
+    {
+      "termo": "coroamento para eliminacao de ervas daninhas",
+      "area": "técnico"
+    },
+    {
+      "termo": "demolicao da base de concreto e remocao e destinacao final ambientalmente adequada",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "correcao quimica do solo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "coveamento do solo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "plantio de mudas",
+      "area": "ambiental"
+    },
+    {
+      "termo": "remocao de ervas daninhas",
+      "area": "ambiental"
+    },
+    {
+      "termo": "arrasamento de pocos",
+      "area": "técnico"
+    },
+    {
+      "termo": "emissao de relatorios",
+      "area": "ambiental"
+    },
+    {
+      "termo": "nao permitir contato com terra agua de superficie ou subterranea",
+      "area": "ambiental"
+    },
+    {
+      "termo": "mantenha o recipiente hermeticamente fechado",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "guardar dentro de recipientes corretamente etiquetados",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "evite a dispersao do produto derramado e do escoamento em contato com o solo cursos de agua fossas e esgoto",
+      "area": "ambiental"
+    },
+    {
+      "termo": "em caso de inalacao remova a pessoa para local ventilado e a mantenha em repouso numa posicao que nao dificulte a respiracao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "em caso de contato com os olhos enxague cuidadosamente com agua durante varios minutos no caso de uso de lentes de contato removaas se for facil continue enxaguando",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "armazene em local bem ventilado mantenha o recipiente hermeticamente fechado",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "respeitar as comunidades onde atuamos promovendo a gestao de impactos socioculturais humanos economicos e ambientais e contribuindo para o desenvolvimento local",
+      "area": "social"
+    },
+    {
+      "termo": "respeitar os direitos dos povos indigenas e comunidades tradicionais sua autodeterminacao o acesso a terra a seus meios de vida e seus principios culturais e sociais",
+      "area": "social"
+    },
+    {
+      "termo": "respeitar o direito ao meio ambiente ecologicamente equilibrado identificando e mitigando potenciais riscos decorrentes das atividades operacionais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "estabelecer canal para denuncias e reclamacoes de forma acessivel as comunidades comprometendose com gestao transparente de tratamento e reparacao quando cabivel por meio de acoes eficazes e transparentes",
+      "area": "social"
+    },
+    {
+      "termo": "promover praticas de seguranca alinhadas com o respeito aos direitos humanos",
+      "area": "social"
+    },
+    {
+      "termo": "implementar iniciativas de esclarecimento e treinamento junto as comunidades potencialmente expostas a riscos de modo a estimular seu comprometimento com as medidas de seguranca e contingencia",
+      "area": "social"
+    },
+    {
+      "termo": "evitar ou reduzir ao maximo a necessidade de deslocamento permanente de individuos e comunidades mas quando necessario promover tratamento igualitario entre os segmentos sociais afetados implementando acoes que garantam condicoes de vida similares ou melhores que as existentes assim como a manutencao das relacoes sociais e culturais",
+      "area": "social"
+    },
+    {
+      "termo": "gerir riscos sociais dos investimentos operacoes descomissionamentos hibernacoes e desinvestimentos pp1pbr00674",
+      "area": "social"
+    },
+    {
+      "termo": "avaliacao comparativa das alternativas de descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "ensaios de lixiviacao segundo abnt nbr 100052004",
+      "area": "ambiental"
+    },
+    {
+      "termo": "ensaios de solubilizacao segundo abnt nbr 100062004",
+      "area": "técnico"
+    },
+    {
+      "termo": "acionar o plano de emergencia individual da unidade e o pevoes",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pull out e destinacao dos risers fase c",
+      "area": "técnico"
+    },
+    {
+      "termo": "remocao de sucatas",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "atendimento das exigencias estabelecidas pela marpol 7378 previstas no seu anexo vi",
+      "area": "ambiental"
+    },
+    {
+      "termo": "operacoes de navegacao e recolhimento das linhas e equipamentos submarinos com velocidade reduzida das embarcacoes de apoio",
+      "area": "técnico"
+    },
+    {
+      "termo": "tratamento de efluentes e trituracao de restos de alimentos antes do descarte ao mar",
+      "area": "ambiental"
+    },
+    {
+      "termo": "planejamento previo da operacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "inscricao no ctfaida declaracao de cumprimento de exigencias de qualificacao ou limites de atuacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "emissao do certificado de regularidade cr pelo ctfaida",
+      "area": "ambiental"
+    },
+    {
+      "termo": "consulta ao ctfaida para emissao do certificado de regularidade",
+      "area": "ambiental"
+    },
+    {
+      "termo": "licenciamento ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "perfuracao de pocos",
+      "area": "técnico"
+    },
+    {
+      "termo": "abandono temporario do poco",
+      "area": "técnico"
+    },
+    {
+      "termo": "armazenamento temporario de residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "envio de residuos para destinacao final",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "analise de riscos sociais considerando todo o ciclo de vida do negocio investimento operacao descomissionamento hibernacao e desinvestimento",
+      "area": "social"
+    },
+    {
+      "termo": "etapas do processo gerir riscos sociais e relacionamento comunitario seguem orientacoes corporativas definidas em diversas politicas e normas incluindo abnt iso 31000",
+      "area": "social"
+    },
+    {
+      "termo": "interromper a producao de oleo e reinjecao de gas",
+      "area": "técnico"
+    },
+    {
+      "termo": "limpeza das instalacoes submarinas",
+      "area": "técnico"
+    },
+    {
+      "termo": "despressurizacao drenagem limpeza e inertizacao da planta de processamento de oleo e gas",
+      "area": "técnico"
+    },
+    {
+      "termo": "realizar o hookout retirada das linhas de ancoragem do fpso",
+      "area": "técnico"
+    },
+    {
+      "termo": "destinacao das linhas de ancoragem dutos flexiveis e umbilicais",
+      "area": "técnico"
+    },
+    {
+      "termo": "realocar o fpso",
+      "area": "técnico"
+    },
+    {
+      "termo": "inventario das instalacoes a serem descomissionadas",
+      "area": "técnico"
+    },
+    {
+      "termo": "caracterizacao e avaliacao das alternativas de descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "projeto de descomissionamento das instalacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "acompanhamento da execucao do projeto",
+      "area": "técnico"
+    },
+    {
+      "termo": "desconectar os dutos flexiveis e umbilicais",
+      "area": "técnico"
+    },
+    {
+      "termo": "limpeza de tanques",
+      "area": "técnico"
+    },
+    {
+      "termo": "desconexoes de linhas em equipamentos submarinos",
+      "area": "técnico"
+    },
+    {
+      "termo": "abandono de pocos",
+      "area": "técnico"
+    },
+    {
+      "termo": "envio de equipamentos descontaminados para area de armazenamento e destinacao como sucata metalica",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "geracao de ruidos e vibracoes",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "geracao de luminosidade",
+      "area": "técnico"
+    },
+    {
+      "termo": "descarte de efluentes sanitarios residuos alimentares e agua de drenagem",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "emissao de gases",
+      "area": "ambiental"
+    },
+    {
+      "termo": "asp 1 posicionamento e fixacao do fpso e equipamentos no fundo oceanico",
+      "area": "técnico"
+    },
+    {
+      "termo": "treinamento adequado para reducao das velocidades e desvio da rota das embarcacoes quando avistados cetaceos e quelonios marinhos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "geracao de luminosidade asp 3",
+      "area": "técnico"
+    },
+    {
+      "termo": "tratamento de efluentes sanitarios e oleosos antes do descarte no mar",
+      "area": "ambiental"
+    },
+    {
+      "termo": "trituracao de restos de alimentos antes do descarte no mar",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "identificacao e avaliacao dos impactos ambientais aia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "troca de agua de lastro a 200 milhas da costa e em aguas com pelo menos 200 m de profundidade",
+      "area": "ambiental"
+    },
+    {
+      "termo": "monitoramento do impacto ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "treinamento dos trabalhadores para reducao de velocidade e desvio de rota das embarcacoes ao avistar quelonios",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "retirada do fpso e equipamentos do fundo oceanico asp 10",
+      "area": "técnico"
+    },
+    {
+      "termo": "implementacao do projeto de educacao ambiental dos trabalhadores peat",
+      "area": "social"
+    },
+    {
+      "termo": "modelagens de dispersao de oleo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "simulacao probabilistica de vazamento de oleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "avaliacao de impactos ambientais aia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "transito de embarcacoes para o transporte de materiais e equipamentos",
+      "area": "técnico"
+    },
+    {
+      "termo": "implantacao do programa de comunicacao social regional da bacia de santos pcsrbs",
+      "area": "social"
+    },
+    {
+      "termo": "tomada de providencias junto a marinha do brasil quanto a seguranca do transporte maritimo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "monitoramento do impacto nao aplicavel neste caso",
+      "area": "ambiental"
+    },
+    {
+      "termo": "transporte de residuos para destinacao adequada em terra",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "gerenciamento de residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "desenvolvimento de estudos e implementacao de projetos ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "medidas de primeiros socorros inalacao contato com a pele olhos ingestao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "escolher o material das luvas considerando durabilidade permeabilidade e degradacao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "reciclagem da embalagem dos residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "lavar as maos antes das pausas e no fim do trabalho",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "lavar imediatamente com agua em caso de contato com a pele",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "obtenha instrucoes especificas antes da utilizacao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "desativacao das instalacoes do campo de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "verificacao da gestao de residuos pelo ibama e inema",
+      "area": "ambiental"
+    },
+    {
+      "termo": "subsolagem",
+      "area": "técnico"
+    },
+    {
+      "termo": "correcao do solo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "coveamento manual",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "plantio",
+      "area": "ambiental"
+    },
+    {
+      "termo": "limpeza dos oleodutos",
+      "area": "técnico"
+    },
+    {
+      "termo": "desconexoes e tamponamentos submarinos",
+      "area": "técnico"
+    },
+    {
+      "termo": "remocao dos pesos mortos",
+      "area": "técnico"
+    },
+    {
+      "termo": "remocao dos flutuadores e elementos de conexao dos risers aos pesos mortos",
+      "area": "técnico"
+    },
+    {
+      "termo": "recolhimento das amarras de fundo e ancoras",
+      "area": "técnico"
+    },
+    {
+      "termo": "geracao de ruidos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "intervencoes no ambito do peat sensibilizando a forca de trabalho quanto a presencasensibilidade deste fator ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "remocao e transporte dos produtos quimicos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "operacoes de navegacao e recolhimento das linhas e equipamentos submarinos com velocidade reduzida das embarcacoes de apoio atendimento a portaria ibama n1171996 alterada pela portaria ibama n242002",
+      "area": "ambiental"
+    },
+    {
+      "termo": "descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "fazer um tampao de cimento de 70m ate o fundo do antepoco",
+      "area": "técnico"
+    },
+    {
+      "termo": "descompactacao do solo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "controle de formigas",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "descomissionamento dos sistemas de producao de marlim e voador",
+      "area": "técnico"
+    },
+    {
+      "termo": "limpeza dos dutos",
+      "area": "técnico"
+    },
+    {
+      "termo": "instalacao de equipamento de apoio",
+      "area": "técnico"
+    },
+    {
+      "termo": "operacao de hidrojateamentodragagem",
+      "area": "técnico"
+    },
+    {
+      "termo": "operacao de desconexao e corte submarino",
+      "area": "técnico"
+    },
+    {
+      "termo": "acionar o pevobc",
+      "area": "técnico"
+    },
+    {
+      "termo": "acionar o presub se necessario",
+      "area": "técnico"
+    },
+    {
+      "termo": "avaliacao comparativa",
+      "area": "econômico"
+    },
+    {
+      "termo": "calculo da media das pontuacoes medias de cada subcriterio",
+      "area": "técnico"
+    },
+    {
+      "termo": "inspecao de corais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "interpretacao de sonar de varredura lateral",
+      "area": "técnico"
+    },
+    {
+      "termo": "modelagem da dispersao de solidos resultantes da atividade de descomissionamento",
+      "area": "ambiental"
+    },
+    {
+      "termo": "simulacao de 91 cenarios deterministicos para o ano de 2013",
+      "area": "técnico"
+    },
+    {
+      "termo": "mobilizacao da estrutura 191 production manifolds",
+      "area": "técnico"
+    },
+    {
+      "termo": "analise e gerenciamento de riscos ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "remocao e transporte de estruturas descomissionadas por embarcacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "remocao de bioincrustacao do fpso e transporte para terra",
+      "area": "técnico"
+    },
+    {
+      "termo": "abandono temporario de estruturas no leito marinho",
+      "area": "técnico"
+    },
+    {
+      "termo": "remocao de estruturas abandonadas temporariamente no leito marinho",
+      "area": "técnico"
+    },
+    {
+      "termo": "abandono definitivo de estruturas no leito marinho",
+      "area": "técnico"
+    },
+    {
+      "termo": "limpeza interna de linhas e equipamentos flushing",
+      "area": "técnico"
+    },
+    {
+      "termo": "descarte de efluentes domesticos e oleosos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "transporte de pessoas equipamentos e residuos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "descomissionamento da plataforma aratum 2 part2 e sistemas submarinos associados",
+      "area": "técnico"
+    },
+    {
+      "termo": "abandonar o poco 1rns48",
+      "area": "técnico"
+    },
+    {
+      "termo": "recolhimento do cabo eletrico",
+      "area": "técnico"
+    },
+    {
+      "termo": "retirada da jaqueta",
+      "area": "técnico"
+    },
+    {
+      "termo": "desconexao dos oleodutos",
+      "area": "técnico"
+    },
+    {
+      "termo": "elaborar e seguir um planejamento previo para a operacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "seguir programa de treinamento atualizacao e conscientizacao dos operadores incluindo treinamentos para situacoes de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "acionar o plano de resposta a emergencia incluindo o plano de emergencia individual pei",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "realizar as operacoes de descomissionamento de forma assistida",
+      "area": "técnico"
+    },
+    {
+      "termo": "avaliar determinar e concordar que todas as condicoes meteorologicas oceanograficas e de trafego estejam adequadas para prevencao de colisoes antes da aproximacao as unidades de producao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "acionamento dos planos de emergencia medida mitigadora",
+      "area": "saúde e segurança"
+    }
+  ],
+  "artefatos": [
+    {
+      "termo": "programa de descomissionamento do fpso p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "lista de anexos",
+      "area": "técnico"
+    },
+    {
+      "termo": "lista de abreviaturas e siglas",
+      "area": "técnico"
+    },
+    {
+      "termo": "resumo executivo",
+      "area": "econômico"
+    },
+    {
+      "termo": "registros fotograficos mapas e diagramas",
+      "area": "técnico"
+    },
+    {
+      "termo": "pocos",
+      "area": "técnico"
+    },
+    {
+      "termo": "unidade de producao maritima",
+      "area": "técnico"
+    },
+    {
+      "termo": "modulos",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de manutencao da posicao",
+      "area": "técnico"
+    },
+    {
+      "termo": "dutos",
+      "area": "técnico"
+    },
+    {
+      "termo": "equipamentos submarinos",
+      "area": "técnico"
+    },
+    {
+      "termo": "linhas flexiveis",
+      "area": "técnico"
+    },
+    {
+      "termo": "umbilicais",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de ancoragem",
+      "area": "técnico"
+    },
+    {
+      "termo": "plataforma",
+      "area": "técnico"
+    },
+    {
+      "termo": "procedimentos operacionais",
+      "area": "técnico"
+    },
+    {
+      "termo": "manual",
+      "area": "técnico"
+    },
+    {
+      "termo": "equipamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tanques de carga",
+      "area": "técnico"
+    },
+    {
+      "termo": "efluentes oleosos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "produtos quimicos",
+      "area": "técnico"
+    },
+    {
+      "termo": "materiais",
+      "area": "técnico"
+    },
+    {
+      "termo": "residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "rejeitos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "rejeitos radioativos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "bioincrustacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "skids de anodos",
+      "area": "técnico"
+    },
+    {
+      "termo": "pesos mortos",
+      "area": "técnico"
+    },
+    {
+      "termo": "sucatas",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "flowlines",
+      "area": "técnico"
+    },
+    {
+      "termo": "plataforma p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "mapa de localizacao da p33 na bacia de campos",
+      "area": "técnico"
+    },
+    {
+      "termo": "inventario de dutos e equipamentos submarinos da p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "relatorios de medicao radiometrica na p33",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "geopdf bancos de coral x sistemas de escoamento e ancoragem de p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "distribuicao espacial de temperatura da agua proxima ao leito marinho bc",
+      "area": "técnico"
+    },
+    {
+      "termo": "identificacao e avaliacao de impactos socioeconomicos",
+      "area": "econômico"
+    },
+    {
+      "termo": "relatorio de responsabilidade social",
+      "area": "social"
+    },
+    {
+      "termo": "cadastro tecnico federal dos responsaveis tecnicos",
+      "area": "técnico"
+    },
+    {
+      "termo": "memorial descritivo do projeto de auxilios a navegacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano de monitoramento posdescomissionamento",
+      "area": "ambiental"
+    },
+    {
+      "termo": "programa de descomissionamento de instalacoes pdi executivo do fpso p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "anexo iii da resolucao anp no 817202",
+      "area": "técnico"
+    },
+    {
+      "termo": "anexo 19 relatorio de responsabilidade social",
+      "area": "social"
+    },
+    {
+      "termo": "linhas submarinas",
+      "area": "técnico"
+    },
+    {
+      "termo": "risers",
+      "area": "técnico"
+    },
+    {
+      "termo": "amarras",
+      "area": "técnico"
+    },
+    {
+      "termo": "cabos de aco",
+      "area": "técnico"
+    },
+    {
+      "termo": "estacas de succao",
+      "area": "técnico"
+    },
+    {
+      "termo": "estacas grauteadas",
+      "area": "técnico"
+    },
+    {
+      "termo": "esdv",
+      "area": "técnico"
+    },
+    {
+      "termo": "caixa de terminal",
+      "area": "técnico"
+    },
+    {
+      "termo": "arvores de natal molhadas anm",
+      "area": "técnico"
+    },
+    {
+      "termo": "umbilical eletrohidraulico ueh",
+      "area": "técnico"
+    },
+    {
+      "termo": "umbilical hidraulico uh",
+      "area": "técnico"
+    },
+    {
+      "termo": "umbilical",
+      "area": "técnico"
+    },
+    {
+      "termo": "projetos detalhados de engenharia",
+      "area": "técnico"
+    },
+    {
+      "termo": "procedimentos tecnicos",
+      "area": "técnico"
+    },
+    {
+      "termo": "resolucao anp no 8172020",
+      "area": "econômico"
+    },
+    {
+      "termo": "licenca de operacao no 13402016",
+      "area": "econômico"
+    },
+    {
+      "termo": "parecer tecnico no 4532021coprodcgmacdilic",
+      "area": "técnico"
+    },
+    {
+      "termo": "anexo 1",
+      "area": "indefinido"
+    },
+    {
+      "termo": "carta uobc 7522019",
+      "area": "técnico"
+    },
+    {
+      "termo": "processo ibama no 02022000479201627",
+      "area": "ambiental"
+    },
+    {
+      "termo": "efluentes",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "residuos solidos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "plataformas p18 p19 p20 p26 p32 p35 p37 e p47",
+      "area": "técnico"
+    },
+    {
+      "termo": "carta smslare 01802019",
+      "area": "indefinido"
+    },
+    {
+      "termo": "gasoduto p33p19",
+      "area": "técnico"
+    },
+    {
+      "termo": "oleoduto p26p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "plataforma p19",
+      "area": "técnico"
+    },
+    {
+      "termo": "pletmrl04a",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tabela 3i",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 32i",
+      "area": "indefinido"
+    },
+    {
+      "termo": "linhas",
+      "area": "técnico"
+    },
+    {
+      "termo": "ancoras",
+      "area": "técnico"
+    },
+    {
+      "termo": "navios aliviadores",
+      "area": "técnico"
+    },
+    {
+      "termo": "gasoduto",
+      "area": "técnico"
+    },
+    {
+      "termo": "oleoduto",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de producao do campo de marlim",
+      "area": "técnico"
+    },
+    {
+      "termo": "turret",
+      "area": "técnico"
+    },
+    {
+      "termo": "amarra de topo",
+      "area": "técnico"
+    },
+    {
+      "termo": "amarra de fundo",
+      "area": "técnico"
+    },
+    {
+      "termo": "bomba",
+      "area": "técnico"
+    },
+    {
+      "termo": "sonda",
+      "area": "técnico"
+    },
+    {
+      "termo": "estaca",
+      "area": "técnico"
+    },
+    {
+      "termo": "cimento",
+      "area": "técnico"
+    },
+    {
+      "termo": "rov",
+      "area": "técnico"
+    },
+    {
+      "termo": "dutos flexiveis",
+      "area": "técnico"
+    },
+    {
+      "termo": "manguerias hcr",
+      "area": "técnico"
+    },
+    {
+      "termo": "pdi programa de descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "duto flexivel",
+      "area": "técnico"
+    },
+    {
+      "termo": "bundle",
+      "area": "econômico"
+    },
+    {
+      "termo": "relatorios de inspecao",
+      "area": "técnico"
+    },
+    {
+      "termo": "manual implicito",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema anm",
+      "area": "técnico"
+    },
+    {
+      "termo": "flutuadores",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 33ii",
+      "area": "indefinido"
+    },
+    {
+      "termo": "figura 33v",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tabela 33v",
+      "area": "técnico"
+    },
+    {
+      "termo": "dutos de coleta",
+      "area": "técnico"
+    },
+    {
+      "termo": "ct",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de escoamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "pdi plano de descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 4ai",
+      "area": "indefinido"
+    },
+    {
+      "termo": "embarcacao ahts",
+      "area": "técnico"
+    },
+    {
+      "termo": "anm",
+      "area": "técnico"
+    },
+    {
+      "termo": "coluna de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 51i",
+      "area": "indefinido"
+    },
+    {
+      "termo": "caderno de boas praticas de ep diretrizes para abandono de pocos",
+      "area": "técnico"
+    },
+    {
+      "termo": "pdi projeto de descomissionamento de instalacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "cachos de amarra",
+      "area": "técnico"
+    },
+    {
+      "termo": "duto",
+      "area": "técnico"
+    },
+    {
+      "termo": "corrais",
+      "area": "técnico"
+    },
+    {
+      "termo": "licenca de operacao lo",
+      "area": "econômico"
+    },
+    {
+      "termo": "avaliacao de impacto ambiental aia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "equipamentos de apoio",
+      "area": "técnico"
+    },
+    {
+      "termo": "conexao riserflowline",
+      "area": "técnico"
+    },
+    {
+      "termo": "ueh",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tabela 52ii",
+      "area": "indefinido"
+    },
+    {
+      "termo": "procedimentos executivos",
+      "area": "técnico"
+    },
+    {
+      "termo": "relatorio periodico das operacoes de descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "hfl hydraulic flying lead",
+      "area": "técnico"
+    },
+    {
+      "termo": "linhas do poco produtor 7mrl220hprjs",
+      "area": "técnico"
+    },
+    {
+      "termo": "linhas do poco produtor 7mrl89drjs",
+      "area": "técnico"
+    },
+    {
+      "termo": "dutos rigidos",
+      "area": "técnico"
+    },
+    {
+      "termo": "cronograma",
+      "area": "técnico"
+    },
+    {
+      "termo": "bancos de coral",
+      "area": "ambiental"
+    },
+    {
+      "termo": "boias",
+      "area": "técnico"
+    },
+    {
+      "termo": "rdi",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 52xi",
+      "area": "indefinido"
+    },
+    {
+      "termo": "casco da plataforma",
+      "area": "técnico"
+    },
+    {
+      "termo": "recibo de entrega e aceitacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "contrato de compra e venda",
+      "area": "econômico"
+    },
+    {
+      "termo": "plano de reboque",
+      "area": "técnico"
+    },
+    {
+      "termo": "normam08",
+      "area": "técnico"
+    },
+    {
+      "termo": "app avaliacao preliminar de perigos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "embarcacoes de apoio",
+      "area": "técnico"
+    },
+    {
+      "termo": "embarcacoes dsv rsv plsv ahts",
+      "area": "técnico"
+    },
+    {
+      "termo": "planta modular de tratamento de agua",
+      "area": "técnico"
+    },
+    {
+      "termo": "regulamento tecnico do sistema de gerenciamento da seguranca operacional das instalacoes maritimas de perfuracao e producao de petroleo e gas natural sgso resolucao anp n 432007",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pocos produtores",
+      "area": "técnico"
+    },
+    {
+      "termo": "tanque de carga do fpso",
+      "area": "técnico"
+    },
+    {
+      "termo": "diagrama unifilar anexo 2",
+      "area": "técnico"
+    },
+    {
+      "termo": "pigs",
+      "area": "técnico"
+    },
+    {
+      "termo": "amostras de agua",
+      "area": "técnico"
+    },
+    {
+      "termo": "tubulacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "anms",
+      "area": "técnico"
+    },
+    {
+      "termo": "cabeca de tracao",
+      "area": "técnico"
+    },
+    {
+      "termo": "relatorio de descomissionamento de instalacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "cinta",
+      "area": "técnico"
+    },
+    {
+      "termo": "cabos de polipropileno",
+      "area": "técnico"
+    },
+    {
+      "termo": "sacos plasticos impermeaveis",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "tubulacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "tanque",
+      "area": "técnico"
+    },
+    {
+      "termo": "agua do mar",
+      "area": "técnico"
+    },
+    {
+      "termo": "flare",
+      "area": "ambiental"
+    },
+    {
+      "termo": "hidrociclones",
+      "area": "técnico"
+    },
+    {
+      "termo": "capitulo 71",
+      "area": "econômico"
+    },
+    {
+      "termo": "tanques de lastro",
+      "area": "técnico"
+    },
+    {
+      "termo": "sacos plasticos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "tambores",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "planta de processamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "tanques de slop",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "embarcacoes do tipo psv",
+      "area": "técnico"
+    },
+    {
+      "termo": "linhas de ancoragem",
+      "area": "técnico"
+    },
+    {
+      "termo": "tambores de 200 l",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "containers",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "projeto de controle da poluicao pcp",
+      "area": "ambiental"
+    },
+    {
+      "termo": "nota tecnica cgpegdilicibama no 012011",
+      "area": "técnico"
+    },
+    {
+      "termo": "lei federal 123052010",
+      "area": "ambiental"
+    },
+    {
+      "termo": "laudo",
+      "area": "técnico"
+    },
+    {
+      "termo": "trechos flowline",
+      "area": "técnico"
+    },
+    {
+      "termo": "cesta metalica",
+      "area": "técnico"
+    },
+    {
+      "termo": "falcacas",
+      "area": "técnico"
+    },
+    {
+      "termo": "conectores",
+      "area": "técnico"
+    },
+    {
+      "termo": "estojos",
+      "area": "técnico"
+    },
+    {
+      "termo": "conteineres",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "flanges",
+      "area": "técnico"
+    },
+    {
+      "termo": "flange cego",
+      "area": "técnico"
+    },
+    {
+      "termo": "poitas",
+      "area": "técnico"
+    },
+    {
+      "termo": "mangueiras",
+      "area": "técnico"
+    },
+    {
+      "termo": "cabos eletricos",
+      "area": "técnico"
+    },
+    {
+      "termo": "cavaletes",
+      "area": "técnico"
+    },
+    {
+      "termo": "spools",
+      "area": "técnico"
+    },
+    {
+      "termo": "pdi executivo",
+      "area": "técnico"
+    },
+    {
+      "termo": "amostras geologicas",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 71i",
+      "area": "indefinido"
+    },
+    {
+      "termo": "8mrl057da",
+      "area": "indefinido"
+    },
+    {
+      "termo": "remotely operated vehicle rov",
+      "area": "técnico"
+    },
+    {
+      "termo": "anodos",
+      "area": "técnico"
+    },
+    {
+      "termo": "porto do acu",
+      "area": "técnico"
+    },
+    {
+      "termo": "aeroporto de macae",
+      "area": "econômico"
+    },
+    {
+      "termo": "heliporto farol de sao tome",
+      "area": "técnico"
+    },
+    {
+      "termo": "residuos de bioincrustacao",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "embarcacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 721iii",
+      "area": "indefinido"
+    },
+    {
+      "termo": "figura 721v",
+      "area": "indefinido"
+    },
+    {
+      "termo": "sistemas submarinos",
+      "area": "técnico"
+    },
+    {
+      "termo": "acessorios",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 81i metas e indicadores de acompanhamento",
+      "area": "econômico"
+    },
+    {
+      "termo": "relatorio tecnico",
+      "area": "técnico"
+    },
+    {
+      "termo": "relatorio de impacto ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fpso p32",
+      "area": "técnico"
+    },
+    {
+      "termo": "poco",
+      "area": "técnico"
+    },
+    {
+      "termo": "memorial descritivo",
+      "area": "técnico"
+    },
+    {
+      "termo": "pipeline",
+      "area": "técnico"
+    },
+    {
+      "termo": "duto de producao de oleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "duto de injecao de gas ig",
+      "area": "técnico"
+    },
+    {
+      "termo": "floating production storage and offloading fpso",
+      "area": "técnico"
+    },
+    {
+      "termo": "pipe line end termination plet",
+      "area": "técnico"
+    },
+    {
+      "termo": "electrical flying lead efl",
+      "area": "técnico"
+    },
+    {
+      "termo": "diagrama unifilar de interligacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "p19",
+      "area": "técnico"
+    },
+    {
+      "termo": "p26",
+      "area": "técnico"
+    },
+    {
+      "termo": "p32",
+      "area": "técnico"
+    },
+    {
+      "termo": "steel catenary riser scr",
+      "area": "técnico"
+    },
+    {
+      "termo": "crf",
+      "area": "técnico"
+    },
+    {
+      "termo": "documento de referencia 07",
+      "area": "indefinido"
+    },
+    {
+      "termo": "plets",
+      "area": "técnico"
+    },
+    {
+      "termo": "torpedos",
+      "area": "técnico"
+    },
+    {
+      "termo": "sucata metalica",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "valvulas submarinas",
+      "area": "técnico"
+    },
+    {
+      "termo": "flow flexivel",
+      "area": "técnico"
+    },
+    {
+      "termo": "riser flexivel",
+      "area": "técnico"
+    },
+    {
+      "termo": "spool de fechamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "descricao da unidade maritima dum",
+      "area": "técnico"
+    },
+    {
+      "termo": "diagrama de ancoragem anexo 1",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de geracao de vapor",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de aquecimento e refrigeracao",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de ar comprimido",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de flare",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de coleta manuseio e disposicao final de residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "sistema de lastro",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de salvatagem",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "sistema de deteccao de fogo e gas",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "sistema de alarme de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "sistema de combate a incendio por agua",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipamentos portateis de extincao de incendio",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "sistema de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de gas combustivel",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de automacao controle e parada de emergencia",
+      "area": "técnico"
+    },
+    {
+      "termo": "mangote",
+      "area": "técnico"
+    },
+    {
+      "termo": "tanques de armazenamento de oleo diesel",
+      "area": "técnico"
+    },
+    {
+      "termo": "centrifugas",
+      "area": "técnico"
+    },
+    {
+      "termo": "diesel gerador auxiliar",
+      "area": "técnico"
+    },
+    {
+      "termo": "tanque do gerador de emergencia",
+      "area": "técnico"
+    },
+    {
+      "termo": "vaso de ar de instrumento",
+      "area": "técnico"
+    },
+    {
+      "termo": "tanques slop sujo e limpo",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "separadores de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "rede de tubulacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "vasos do flare",
+      "area": "técnico"
+    },
+    {
+      "termo": "cilindros de co2",
+      "area": "técnico"
+    },
+    {
+      "termo": "vaso do flare de alta pressao",
+      "area": "técnico"
+    },
+    {
+      "termo": "ventiladores de gas inerte",
+      "area": "técnico"
+    },
+    {
+      "termo": "coletores de residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "tanques de armazenamento de produtos quimicos",
+      "area": "técnico"
+    },
+    {
+      "termo": "tanques de agua doce",
+      "area": "técnico"
+    },
+    {
+      "termo": "paineis do plc",
+      "area": "técnico"
+    },
+    {
+      "termo": "valvulas",
+      "area": "técnico"
+    },
+    {
+      "termo": "ventiladores",
+      "area": "técnico"
+    },
+    {
+      "termo": "dampers",
+      "area": "técnico"
+    },
+    {
+      "termo": "bote de resgate",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "balsa salvavidas inflavel",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "colete salvavidas",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "boia salvavidas",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "foguete paraquedas",
+      "area": "técnico"
+    },
+    {
+      "termo": "epirb",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "radar transponder",
+      "area": "técnico"
+    },
+    {
+      "termo": "cabos",
+      "area": "técnico"
+    },
+    {
+      "termo": "normam 01",
+      "area": "indefinido"
+    },
+    {
+      "termo": "sala de controle",
+      "area": "técnico"
+    },
+    {
+      "termo": "hidrantes",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "caixas de mar",
+      "area": "técnico"
+    },
+    {
+      "termo": "tanques de oleo diesel",
+      "area": "técnico"
+    },
+    {
+      "termo": "sopradores",
+      "area": "técnico"
+    },
+    {
+      "termo": "painel de controle de incendio",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "chaves",
+      "area": "técnico"
+    },
+    {
+      "termo": "esguicho",
+      "area": "técnico"
+    },
+    {
+      "termo": "valvula de abertura rapida",
+      "area": "técnico"
+    },
+    {
+      "termo": "tubos coletores",
+      "area": "técnico"
+    },
+    {
+      "termo": "acionador automatico",
+      "area": "técnico"
+    },
+    {
+      "termo": "bicos nebulizadores",
+      "area": "técnico"
+    },
+    {
+      "termo": "detectores automaticos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "guindastes",
+      "area": "técnico"
+    },
+    {
+      "termo": "heliponto",
+      "area": "técnico"
+    },
+    {
+      "termo": "cestas de transbordo",
+      "area": "técnico"
+    },
+    {
+      "termo": "unidades de telefones automaticas",
+      "area": "social"
+    },
+    {
+      "termo": "intercomunicadores",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "estacoes de chamadas",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "transceptores",
+      "area": "técnico"
+    },
+    {
+      "termo": "radios portateis",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "navtex",
+      "area": "técnico"
+    },
+    {
+      "termo": "vhf fm",
+      "area": "técnico"
+    },
+    {
+      "termo": "vhf dsc",
+      "area": "técnico"
+    },
+    {
+      "termo": "inmarsat c",
+      "area": "técnico"
+    },
+    {
+      "termo": "valvulas de interligacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "unidade hidraulica",
+      "area": "técnico"
+    },
+    {
+      "termo": "bomba centrifuga",
+      "area": "técnico"
+    },
+    {
+      "termo": "desaeradora",
+      "area": "técnico"
+    },
+    {
+      "termo": "bombas de injecao de agua",
+      "area": "técnico"
+    },
+    {
+      "termo": "coletores de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "separador de teste",
+      "area": "técnico"
+    },
+    {
+      "termo": "trocadores de calor",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de compressao principal",
+      "area": "técnico"
+    },
+    {
+      "termo": "valvulas de seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "resfriador",
+      "area": "técnico"
+    },
+    {
+      "termo": "vaso de gas separado",
+      "area": "técnico"
+    },
+    {
+      "termo": "bombas de carga",
+      "area": "técnico"
+    },
+    {
+      "termo": "turbinas",
+      "area": "técnico"
+    },
+    {
+      "termo": "vaso de expansao de agua quente",
+      "area": "técnico"
+    },
+    {
+      "termo": "ecos estacao central de operacao e supervisao",
+      "area": "técnico"
+    },
+    {
+      "termo": "cis sistema de controle e intertravamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "plcs controladores logicos programaveis",
+      "area": "técnico"
+    },
+    {
+      "termo": "painel de controle e intertravamento de seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "unidades terminais remotas rtus",
+      "area": "técnico"
+    },
+    {
+      "termo": "paineis locais",
+      "area": "técnico"
+    },
+    {
+      "termo": "maquinas",
+      "area": "técnico"
+    },
+    {
+      "termo": "botoeira",
+      "area": "técnico"
+    },
+    {
+      "termo": "detectores de fogo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "bombas de incendio",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pocos de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "umblical de controle",
+      "area": "técnico"
+    },
+    {
+      "termo": "anexo 2",
+      "area": "indefinido"
+    },
+    {
+      "termo": "arvore de natal",
+      "area": "técnico"
+    },
+    {
+      "termo": "plcs",
+      "area": "técnico"
+    },
+    {
+      "termo": "rede de comunicacao de dados",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de automacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "reservatorio",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso",
+      "area": "técnico"
+    },
+    {
+      "termo": "navio",
+      "area": "técnico"
+    },
+    {
+      "termo": "manifold",
+      "area": "técnico"
+    },
+    {
+      "termo": "duto submarino",
+      "area": "técnico"
+    },
+    {
+      "termo": "diagrama de ancoragem",
+      "area": "técnico"
+    },
+    {
+      "termo": "diagrama de interligacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "mapa de restricao",
+      "area": "técnico"
+    },
+    {
+      "termo": "diagrama de ancoragem da p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "caldeiras",
+      "area": "técnico"
+    },
+    {
+      "termo": "fispq",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "luvas de protecao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "roupa de protecao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "protecao ocular",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "protecao facial",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipamento de protecao respiratoria autonomo scba",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "vestuario protetor completo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "espuma",
+      "area": "técnico"
+    },
+    {
+      "termo": "dioxido de carbono co2",
+      "area": "ambiental"
+    },
+    {
+      "termo": "areia seca",
+      "area": "técnico"
+    },
+    {
+      "termo": "terra",
+      "area": "ambiental"
+    },
+    {
+      "termo": "vermiculite",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "material inerte",
+      "area": "técnico"
+    },
+    {
+      "termo": "recipientes apropriados",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "oculos de protecao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "embalagens originais",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "fispq ficha de informacoes de seguranca de produtos quimicos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "normam 01dpc",
+      "area": "técnico"
+    },
+    {
+      "termo": "imdg code",
+      "area": "técnico"
+    },
+    {
+      "termo": "rbac n175",
+      "area": "técnico"
+    },
+    {
+      "termo": "doc 9284na905 icao",
+      "area": "indefinido"
+    },
+    {
+      "termo": "norma regulamentadora nr n15",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "plataforma fpso p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "norma petrobras n2782 rev d",
+      "area": "técnico"
+    },
+    {
+      "termo": "estudo de impactos ambientais eia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "tabela 131 categoria de frequencia",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tabela 132 categorias de severidade",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "embarcacoes plsv",
+      "area": "técnico"
+    },
+    {
+      "termo": "risers flexiveis",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 133 matriz de riscos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "tabela 134 categorias de riscos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "tabela 111 planilhas de app",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 151 matriz referencial de riscos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "tabela 152 distribuicao dos cenarios por categoria de risco",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "planilhas de app",
+      "area": "técnico"
+    },
+    {
+      "termo": "american institute of chemical engineers aiche guidelines for hazard evaluation procedures 3rd analysis",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "woad worldwide offshore accident databank statistical report 1998",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pei plano de emergencia individual",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pevo plano de emergencia de vazamento de oleo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "guincho",
+      "area": "técnico"
+    },
+    {
+      "termo": "tomadas de diesel",
+      "area": "técnico"
+    },
+    {
+      "termo": "helicoptero",
+      "area": "técnico"
+    },
+    {
+      "termo": "plataformas maritimas",
+      "area": "técnico"
+    },
+    {
+      "termo": "tanques de separacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "embarcacoes de apoioservicorebocador",
+      "area": "técnico"
+    },
+    {
+      "termo": "manualprocedimentos implicito",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano de resposta a emergencias pre",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "plano de emergencia para vazamento de oleo pevobc",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "planos de emergencia para vazamentos de oleo a bordo de navio sopep",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "nota tecnica coexpcgmacdilic no 032017",
+      "area": "técnico"
+    },
+    {
+      "termo": "matrizes de identificacao e avaliacao dos impactos ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "nota tecnica",
+      "area": "técnico"
+    },
+    {
+      "termo": "quadro para avaliacao da importancia do impacto",
+      "area": "ambiental"
+    },
+    {
+      "termo": "aia analise de impacto ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "lo de perfuracao da agbc processo ibama no 02001005368200331",
+      "area": "ambiental"
+    },
+    {
+      "termo": "matriz de impactos",
+      "area": "técnico"
+    },
+    {
+      "termo": "diesel",
+      "area": "técnico"
+    },
+    {
+      "termo": "equipamentos e tubulacoes da planta de processamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "embarcacoes de apoioservico",
+      "area": "técnico"
+    },
+    {
+      "termo": "app analise preliminar de riscos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "tabela 322",
+      "area": "indefinido"
+    },
+    {
+      "termo": "agua oleosa",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "equipamentos de apoio calcocavalete cabeca de tracao ancoragem provisoria",
+      "area": "técnico"
+    },
+    {
+      "termo": "formacoes coralineas q1 q2 q3 q4",
+      "area": "ambiental"
+    },
+    {
+      "termo": "portaria ibama n1171996",
+      "area": "ambiental"
+    },
+    {
+      "termo": "portaria ibama n242002",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pmpd programa de monitoramento e plano de descomissionamento inferido",
+      "area": "técnico"
+    },
+    {
+      "termo": "anexo v da marpol 7378",
+      "area": "ambiental"
+    },
+    {
+      "termo": "projeto de monitoramento de impactos de plataformas e embarcacoes sobre a avifauna pmave",
+      "area": "ambiental"
+    },
+    {
+      "termo": "portaria ibama n1171996 alterada pela portaria ibama n242002",
+      "area": "ambiental"
+    },
+    {
+      "termo": "programa de treinamento para situacoes de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "programa de inspecoes periodicas e manutencao preventiva",
+      "area": "técnico"
+    },
+    {
+      "termo": "programa de treinamento",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "tanques de armazenamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano sopep da embarcacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "pevo da unbc",
+      "area": "técnico"
+    },
+    {
+      "termo": "procedimentos de seguranca para aproximacao de plataformas maritimas e embarcacoes",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipamentos envolvidos na operacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "procedimentos de seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "mangotes de transferencia de diesel",
+      "area": "técnico"
+    },
+    {
+      "termo": "mangote flutuante",
+      "area": "técnico"
+    },
+    {
+      "termo": "programa de inspecoes periodicas",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano de emergencia individual da plataforma",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "plano de resposta a emergencias da plataforma",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "plano de emergencia para vazamento de oleo na area geografica da bacia de campos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "slops",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "unidades maritimas",
+      "area": "técnico"
+    },
+    {
+      "termo": "planejamento previo da operacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "pmarbc subprojeto de monitoramento ambiental dos corais de aguas profundas",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pmpd projeto de monitoramento pos descomissionamento",
+      "area": "ambiental"
+    },
+    {
+      "termo": "relatorio",
+      "area": "indefinido"
+    },
+    {
+      "termo": "plano de acao nacional para a conservacao dos ambientes coralineos pancorais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "projeto de conservacao e utilizacao sustentavel da diversidade biologica brasileira probio i",
+      "area": "ambiental"
+    },
+    {
+      "termo": "rov veiculo operado remotamente",
+      "area": "técnico"
+    },
+    {
+      "termo": "oleo diesel",
+      "area": "técnico"
+    },
+    {
+      "termo": "oleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "hidrocarbonetos",
+      "area": "técnico"
+    },
+    {
+      "termo": "amostras",
+      "area": "técnico"
+    },
+    {
+      "termo": "lei no 996600",
+      "area": "econômico"
+    },
+    {
+      "termo": "decreto no 41362002",
+      "area": "econômico"
+    },
+    {
+      "termo": "resolucao conama no 3982008",
+      "area": "ambiental"
+    },
+    {
+      "termo": "decreto n 81272013",
+      "area": "econômico"
+    },
+    {
+      "termo": "resolucao conama n 4722015",
+      "area": "ambiental"
+    },
+    {
+      "termo": "instrucao normativa conjunta ibamaicmbio n 22011",
+      "area": "ambiental"
+    },
+    {
+      "termo": "plano de acao nacional para conservacao da toninha",
+      "area": "ambiental"
+    },
+    {
+      "termo": "plano de acao nacional para conservacao dos grandes cetaceos e pinipedes",
+      "area": "ambiental"
+    },
+    {
+      "termo": "plano de acao nacional para conservacao dos pequenos cetaceos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "plano de acao nacional para conservacao das tartarugas marinhas",
+      "area": "ambiental"
+    },
+    {
+      "termo": "manguezais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pevobc plano de emergencia para vazamentos de oleo da bacia de campos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "manualprocedimentos de seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "lei federal 126512012 novo codigo florestal",
+      "area": "ambiental"
+    },
+    {
+      "termo": "costoes rochosos",
+      "area": "técnico"
+    },
+    {
+      "termo": "manual da noaa 2013",
+      "area": "ambiental"
+    },
+    {
+      "termo": "sistemas implicito",
+      "area": "técnico"
+    },
+    {
+      "termo": "agua",
+      "area": "ambiental"
+    },
+    {
+      "termo": "sedimento",
+      "area": "ambiental"
+    },
+    {
+      "termo": "petroleo",
+      "area": "econômico"
+    },
+    {
+      "termo": "pevobc",
+      "area": "técnico"
+    },
+    {
+      "termo": "rebocadores",
+      "area": "técnico"
+    },
+    {
+      "termo": "embarcacoes plsv e ahts",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 1",
+      "area": "indefinido"
+    },
+    {
+      "termo": "abnt nbr 100042004",
+      "area": "técnico"
+    },
+    {
+      "termo": "amostra de residuo",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "abnt 100042004",
+      "area": "técnico"
+    },
+    {
+      "termo": "nbr 100042004",
+      "area": "técnico"
+    },
+    {
+      "termo": "relatorio de ensaio",
+      "area": "técnico"
+    },
+    {
+      "termo": "cadeia de custodia",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "check list",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "certificado digital",
+      "area": "técnico"
+    },
+    {
+      "termo": "ueps unidades de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "garateias",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura iii111",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tabela iii121",
+      "area": "indefinido"
+    },
+    {
+      "termo": "figura iii122",
+      "area": "indefinido"
+    },
+    {
+      "termo": "relatorio final",
+      "area": "indefinido"
+    },
+    {
+      "termo": "mapas",
+      "area": "técnico"
+    },
+    {
+      "termo": "amostras de sedimento",
+      "area": "técnico"
+    },
+    {
+      "termo": "embarcacoes de apoio dsv rsv plsv ou ahts",
+      "area": "técnico"
+    },
+    {
+      "termo": "programa de comunicacao social da bacia de campos pcsbc",
+      "area": "social"
+    },
+    {
+      "termo": "quadro 2 matriz de impactos socioeconomicos potenciais",
+      "area": "econômico"
+    },
+    {
+      "termo": "sistema de producao e escoamento de petroleo do campo de marlim",
+      "area": "técnico"
+    },
+    {
+      "termo": "petrechos de pesca",
+      "area": "ambiental"
+    },
+    {
+      "termo": "insumos",
+      "area": "econômico"
+    },
+    {
+      "termo": "unidade de producao p33",
+      "area": "técnico"
+    },
+    {
+      "termo": "infraestrutura portuaria",
+      "area": "técnico"
+    },
+    {
+      "termo": "infraestrutura de tratamento e disposicao final de residuos solidos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "projeto de descomissionamento da p32",
+      "area": "técnico"
+    },
+    {
+      "termo": "diretrizes de direitos humanos di1pbr00334",
+      "area": "social"
+    },
+    {
+      "termo": "guia de conduta etica para fornecedores",
+      "area": "social"
+    },
+    {
+      "termo": "relatorio de sustentabilidade",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pacto nacional de erradicacao do trabalho escravo",
+      "area": "social"
+    },
+    {
+      "termo": "carta aberta empresas pelos direitos humanos",
+      "area": "social"
+    },
+    {
+      "termo": "iniciativa empresarial pela igualdade",
+      "area": "social"
+    },
+    {
+      "termo": "pacto nacional pela primeira infancia",
+      "area": "social"
+    },
+    {
+      "termo": "pp1pbr00664 gerir riscos sociais e o relacionamento comunitario",
+      "area": "social"
+    },
+    {
+      "termo": "pp1pbr00674 gerir riscos sociais dos investimentos operacoes descomissionamentos hibernacoes e desinvestimentos",
+      "area": "social"
+    },
+    {
+      "termo": "abnt nbr iso 260002010",
+      "area": "social"
+    },
+    {
+      "termo": "abnt nbr 160012012",
+      "area": "técnico"
+    },
+    {
+      "termo": "documentos e guias da international finance corportation ifc",
+      "area": "econômico"
+    },
+    {
+      "termo": "documentos e guias da associacao regional das empresas de petroleo e gas da america latina arpel",
+      "area": "indefinido"
+    },
+    {
+      "termo": "documentos e guias da associacao internacional das empresas de petroleo e gas para questoes sociais e ambientais ipieca",
+      "area": "indefinido"
+    },
+    {
+      "termo": "principios orientadores sobre empresas e direitos humanos das nacoes unidas",
+      "area": "social"
+    },
+    {
+      "termo": "codigo de conduta etica",
+      "area": "social"
+    },
+    {
+      "termo": "politicas corporativas e boas praticas da companhia",
+      "area": "social"
+    },
+    {
+      "termo": "politica de gestao de riscos empresariais pl0spb00007",
+      "area": "econômico"
+    },
+    {
+      "termo": "diretrizes de gerenciamento dos riscos empresariais da petrobras di1pbr00106",
+      "area": "econômico"
+    },
+    {
+      "termo": "diretrizes para o gerenciamento dos riscos de projetos de investimento da petrobras di1pbr00276 b",
+      "area": "econômico"
+    },
+    {
+      "termo": "norma abnt iso 31000 gestao de riscos principios e diretrizes",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 1 dimensoes e temas de responsabilidade social",
+      "area": "social"
+    },
+    {
+      "termo": "figura 2 etapas do processo gerir riscos sociais e relacionamento comunitario",
+      "area": "social"
+    },
+    {
+      "termo": "planos de relacionamento comunitario",
+      "area": "social"
+    },
+    {
+      "termo": "computadores",
+      "area": "técnico"
+    },
+    {
+      "termo": "cestas basicas",
+      "area": "social"
+    },
+    {
+      "termo": "certificado de regularidade cr ctfaida",
+      "area": "indefinido"
+    },
+    {
+      "termo": "licencas",
+      "area": "ambiental"
+    },
+    {
+      "termo": "autorizacoes",
+      "area": "ambiental"
+    },
+    {
+      "termo": "permissoes",
+      "area": "econômico"
+    },
+    {
+      "termo": "concessoes",
+      "area": "econômico"
+    },
+    {
+      "termo": "alvaras",
+      "area": "econômico"
+    },
+    {
+      "termo": "documentos de responsabilidade tecnica",
+      "area": "técnico"
+    },
+    {
+      "termo": "relatorio descritivo e fotografico",
+      "area": "técnico"
+    },
+    {
+      "termo": "programa de desativacao das instalacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "notificacao no 2003000370tecnoth0033",
+      "area": "indefinido"
+    },
+    {
+      "termo": "formulario petrobras n381rev l",
+      "area": "técnico"
+    },
+    {
+      "termo": "unidades de producao terrestre",
+      "area": "técnico"
+    },
+    {
+      "termo": "dutos de escoamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "mapas 01 e 02",
+      "area": "indefinido"
+    },
+    {
+      "termo": "revestimento",
+      "area": "técnico"
+    },
+    {
+      "termo": "tubo condutor",
+      "area": "técnico"
+    },
+    {
+      "termo": "revestimento de superficie",
+      "area": "técnico"
+    },
+    {
+      "termo": "revestimento de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "resolucao anp no 46 de 1o112016",
+      "area": "econômico"
+    },
+    {
+      "termo": "tab 04 especies da flora nativa",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fig 07 croqui de distribuicao do grupo de anderson",
+      "area": "técnico"
+    },
+    {
+      "termo": "subsolador",
+      "area": "técnico"
+    },
+    {
+      "termo": "trator",
+      "area": "técnico"
+    },
+    {
+      "termo": "mudas",
+      "area": "técnico"
+    },
+    {
+      "termo": "fertilizantes",
+      "area": "ambiental"
+    },
+    {
+      "termo": "corretivos",
+      "area": "técnico"
+    },
+    {
+      "termo": "formicida liquido",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "termonebulizador",
+      "area": "técnico"
+    },
+    {
+      "termo": "base de concreto",
+      "area": "técnico"
+    },
+    {
+      "termo": "equipamento de superficie",
+      "area": "técnico"
+    },
+    {
+      "termo": "cascalho",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 05",
+      "area": "indefinido"
+    },
+    {
+      "termo": "politica de responsabilidade social",
+      "area": "social"
+    },
+    {
+      "termo": "pacto global da onu",
+      "area": "social"
+    },
+    {
+      "termo": "selo proequidade de genero e raca",
+      "area": "social"
+    },
+    {
+      "termo": "sete principios de empoderamento da onu mulheres",
+      "area": "social"
+    },
+    {
+      "termo": "declaracao de compromisso corporativo no enfrentamento da violencia sexual de criancas e adolescentes",
+      "area": "social"
+    },
+    {
+      "termo": "diagrama unifilar de interligacao do fpso capx",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso capixaba",
+      "area": "técnico"
+    },
+    {
+      "termo": "linha de servico",
+      "area": "técnico"
+    },
+    {
+      "termo": "processo administrativo na anp 48610205264201833",
+      "area": "indefinido"
+    },
+    {
+      "termo": "bombas de transferencia de oleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "turbogeradores",
+      "area": "técnico"
+    },
+    {
+      "termo": "compressor de ar de partida",
+      "area": "técnico"
+    },
+    {
+      "termo": "abafador de chamas",
+      "area": "técnico"
+    },
+    {
+      "termo": "geradores de gas inerte",
+      "area": "técnico"
+    },
+    {
+      "termo": "ecos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "linhas de oleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "cabos de poliester",
+      "area": "técnico"
+    },
+    {
+      "termo": "cilindros de armazenamento co2",
+      "area": "técnico"
+    },
+    {
+      "termo": "gerador de emergencia",
+      "area": "técnico"
+    },
+    {
+      "termo": "barramento principal de 11 kv",
+      "area": "técnico"
+    },
+    {
+      "termo": "tratador eletrostatico",
+      "area": "técnico"
+    },
+    {
+      "termo": "resfriadores de oleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de compressao booster",
+      "area": "técnico"
+    },
+    {
+      "termo": "mangueiras flexiveis mangotes",
+      "area": "técnico"
+    },
+    {
+      "termo": "linhas de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "paineis eletricos",
+      "area": "técnico"
+    },
+    {
+      "termo": "linha de exportacao de gas",
+      "area": "técnico"
+    },
+    {
+      "termo": "fso",
+      "area": "técnico"
+    },
+    {
+      "termo": "hi39350dnf01011",
+      "area": "indefinido"
+    },
+    {
+      "termo": "hi39470dnf01013",
+      "area": "indefinido"
+    },
+    {
+      "termo": "recipientes",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "sistemas de ventilacao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "chuveiros de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "protetor facial",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "respirador",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "tambores metalicos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "decreto federal no 2657",
+      "area": "econômico"
+    },
+    {
+      "termo": "roupas",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipamentos de protecao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "vestimenta de protecao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "material absorvente inerte",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "recipientes adequados",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "lavaolhos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "norma abnt nbr 14725",
+      "area": "técnico"
+    },
+    {
+      "termo": "aparelho de respiracao autonomo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipamento de protecao individual epi",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "vestuario de protecao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "chuveiros de seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "diretriz de teste de oecd 401",
+      "area": "técnico"
+    },
+    {
+      "termo": "solo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "embalagens contaminadas",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "oculos de seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipamento de protecao respiratorio",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "embalagens",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "produto",
+      "area": "econômico"
+    },
+    {
+      "termo": "estacao de tratamento de efluentes",
+      "area": "ambiental"
+    },
+    {
+      "termo": "equipamento de respiracao autonomo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "po seco",
+      "area": "técnico"
+    },
+    {
+      "termo": "oecd test guidelines 203",
+      "area": "técnico"
+    },
+    {
+      "termo": "embalagem",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "folha de dados de seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "filtros",
+      "area": "técnico"
+    },
+    {
+      "termo": "recipientes vazios",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "lentes de contato",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "abnt nbr 147254 2014",
+      "area": "técnico"
+    },
+    {
+      "termo": "norma abntnbr 147252012",
+      "area": "técnico"
+    },
+    {
+      "termo": "referencias bibliograficas",
+      "area": "técnico"
+    },
+    {
+      "termo": "strainer crude oil pump a pt6201a",
+      "area": "técnico"
+    },
+    {
+      "termo": "choke cht05",
+      "area": "técnico"
+    },
+    {
+      "termo": "no s3 cargo oil tank",
+      "area": "técnico"
+    },
+    {
+      "termo": "avaliacao de impactos socioeconomicos",
+      "area": "econômico"
+    },
+    {
+      "termo": "quadro 1",
+      "area": "indefinido"
+    },
+    {
+      "termo": "recursos pesqueiros",
+      "area": "ambiental"
+    },
+    {
+      "termo": "praias",
+      "area": "ambiental"
+    },
+    {
+      "termo": "unidades de conservacao",
+      "area": "ambiental"
+    },
+    {
+      "termo": "plano estrategico 20212025",
+      "area": "econômico"
+    },
+    {
+      "termo": "avaliacao de impactos ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "codigo de conduta etica e das politicas corporativas e boas praticas da companhia",
+      "area": "social"
+    },
+    {
+      "termo": "figura 2",
+      "area": "indefinido"
+    },
+    {
+      "termo": "relatorio de avaliacao comparativa",
+      "area": "econômico"
+    },
+    {
+      "termo": "guideline dnvgl diretrizes para avaliacao comparativa baseada em risco de opcoes para descomissionamento de instalacoes submarinas no brasil",
+      "area": "técnico"
+    },
+    {
+      "termo": "gasoduto rota 3",
+      "area": "técnico"
+    },
+    {
+      "termo": "guideline dnvgl",
+      "area": "técnico"
+    },
+    {
+      "termo": "recursos",
+      "area": "econômico"
+    },
+    {
+      "termo": "tabela 41",
+      "area": "indefinido"
+    },
+    {
+      "termo": "figura 3",
+      "area": "indefinido"
+    },
+    {
+      "termo": "caminhoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "planilha de hipoteses acidentais",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "programa de descomissionamento do fpso capixaba",
+      "area": "técnico"
+    },
+    {
+      "termo": "indicador de pressao",
+      "area": "técnico"
+    },
+    {
+      "termo": "soldas",
+      "area": "técnico"
+    },
+    {
+      "termo": "gaxetas",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 311",
+      "area": "técnico"
+    },
+    {
+      "termo": "decreto no 68482009",
+      "area": "indefinido"
+    },
+    {
+      "termo": "embarcacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "linhas e equipamentos submarinos",
+      "area": "técnico"
+    },
+    {
+      "termo": "efluentes sanitarios",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "pei plano de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "estacas torpedos",
+      "area": "técnico"
+    },
+    {
+      "termo": "estruturas submarinas",
+      "area": "técnico"
+    },
+    {
+      "termo": "residuos alimentares",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "peat programa de educacao ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "plano de emergencia para vazamento de oleo na area geografica do espirito santo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "manual de procedimentos",
+      "area": "técnico"
+    },
+    {
+      "termo": "ahtsrebocador",
+      "area": "técnico"
+    },
+    {
+      "termo": "planos de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "programa de inspecoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "embarcacoes de servicoapoio",
+      "area": "técnico"
+    },
+    {
+      "termo": "certificados de regularidade do cadastro tecnico federal de atividades e instrumentos de defesa ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "cadastro tecnico federal de atividades e instrumentos de defesa ambiental ctfaida",
+      "area": "ambiental"
+    },
+    {
+      "termo": "certificado de regularidade cr",
+      "area": "econômico"
+    },
+    {
+      "termo": "contrato anp no 480000038819752",
+      "area": "econômico"
+    },
+    {
+      "termo": "anexo 1 sistema de gestao de responsabilidade social na petrobras",
+      "area": "social"
+    },
+    {
+      "termo": "tabela de localizacao dos pocos",
+      "area": "técnico"
+    },
+    {
+      "termo": "pdi conceitual",
+      "area": "técnico"
+    },
+    {
+      "termo": "identificacao e avaliacao de impactos ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fpsopioneiro de libra",
+      "area": "técnico"
+    },
+    {
+      "termo": "spa2",
+      "area": "técnico"
+    },
+    {
+      "termo": "linhas de poliester",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpsopl",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso pioneiro de libra",
+      "area": "técnico"
+    },
+    {
+      "termo": "instalacoes submarinas",
+      "area": "técnico"
+    },
+    {
+      "termo": "planta de processamento de oleo e gas",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de coleta",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 06",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tabela 07",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tabela 09",
+      "area": "indefinido"
+    },
+    {
+      "termo": "pocos produtor e injetor",
+      "area": "técnico"
+    },
+    {
+      "termo": "queimador",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de ancoragem tipo turret mooring",
+      "area": "técnico"
+    },
+    {
+      "termo": "relatorios parciais de execucao do projeto",
+      "area": "técnico"
+    },
+    {
+      "termo": "resolucao anp 462016",
+      "area": "econômico"
+    },
+    {
+      "termo": "pdi conceitual descomissionamento do spa2 fpsopioneiro de libra",
+      "area": "técnico"
+    },
+    {
+      "termo": "anp resolucao n 817 de 24 de abril de 2020",
+      "area": "econômico"
+    },
+    {
+      "termo": "anexo 4",
+      "area": "indefinido"
+    },
+    {
+      "termo": "carta libra 01122021",
+      "area": "indefinido"
+    },
+    {
+      "termo": "sistema de ar condicionado e ventilacao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "tanques slop",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "compressores",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de tratamento de agua produzida",
+      "area": "técnico"
+    },
+    {
+      "termo": "linhas de amarracao",
+      "area": "técnico"
+    },
+    {
+      "termo": "vhf fm portatil",
+      "area": "técnico"
+    },
+    {
+      "termo": "manifold de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "gas lift",
+      "area": "técnico"
+    },
+    {
+      "termo": "injecao de agua",
+      "area": "técnico"
+    },
+    {
+      "termo": "resolucao conama no 0186",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pdi conceitual spa2 fpso pioneiro de libra",
+      "area": "técnico"
+    },
+    {
+      "termo": "anexo 6 identificacao e avaliacao dos impactos ambientais aia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "quadro ii621",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tld",
+      "area": "técnico"
+    },
+    {
+      "termo": "spas",
+      "area": "técnico"
+    },
+    {
+      "termo": "matriz de interacao aspectos ambientais fatores ambientais impactos ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fpso unidade flutuante de producao armazenamento e descarregamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "estruturas de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso unidade de producao armazenamento e transferencia",
+      "area": "técnico"
+    },
+    {
+      "termo": "resolucao conama no 35705",
+      "area": "ambiental"
+    },
+    {
+      "termo": "resolucao conama no 43011",
+      "area": "ambiental"
+    },
+    {
+      "termo": "viii plano setorial para os recursos do mar",
+      "area": "econômico"
+    },
+    {
+      "termo": "programa nacional do meio ambiente ii pnma ii",
+      "area": "ambiental"
+    },
+    {
+      "termo": "maquinas e equipamentos",
+      "area": "técnico"
+    },
+    {
+      "termo": "programa de avaliacao monitoramento e conservacao da biodiversidade marinha revimar",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fpso unidade flutuante de producao armazenagem e descarga",
+      "area": "técnico"
+    },
+    {
+      "termo": "projeto de educacao ambiental dos trabalhadores peat",
+      "area": "social"
+    },
+    {
+      "termo": "estudos",
+      "area": "indefinido"
+    },
+    {
+      "termo": "relatorio de aia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "parecer tecnico par 0003212016 cprodibama",
+      "area": "técnico"
+    },
+    {
+      "termo": "relatorio de identificacao e avaliacao dos impactos ambientais aia",
+      "area": "ambiental"
+    },
+    {
+      "termo": "arie baia de guanabara",
+      "area": "ambiental"
+    },
+    {
+      "termo": "mn das ilhas cagarras",
+      "area": "ambiental"
+    },
+    {
+      "termo": "resex marinha de itaipu",
+      "area": "técnico"
+    },
+    {
+      "termo": "plataformas de petroleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano de manejo de aves na plataforma",
+      "area": "ambiental"
+    },
+    {
+      "termo": "agua de drenagem",
+      "area": "ambiental"
+    },
+    {
+      "termo": "plantas de tratamento de efluentes sanitarios",
+      "area": "ambiental"
+    },
+    {
+      "termo": "programa nacional da diversidade biologica pronabio",
+      "area": "ambiental"
+    },
+    {
+      "termo": "sistema de tratamento de esgoto",
+      "area": "ambiental"
+    },
+    {
+      "termo": "turbinas a gas",
+      "area": "técnico"
+    },
+    {
+      "termo": "motores a diesel",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso unidade flutuante de producao armazenamento e transferencia de petroleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "gas natural",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistemas antiincrustantes",
+      "area": "técnico"
+    },
+    {
+      "termo": "tintas antiincrustantes",
+      "area": "técnico"
+    },
+    {
+      "termo": "agua de lastro",
+      "area": "ambiental"
+    },
+    {
+      "termo": "cascos de navios",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "plataformas de exploracao de hidrocarbonetos",
+      "area": "técnico"
+    },
+    {
+      "termo": "convencao internacional para o controle e gerenciamento da agua de lastro e sedimentos de navios",
+      "area": "ambiental"
+    },
+    {
+      "termo": "lei no 69381981 politica nacional de meio ambiente",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pdi conceitual spa2",
+      "area": "técnico"
+    },
+    {
+      "termo": "materiais e equipamentos",
+      "area": "técnico"
+    },
+    {
+      "termo": "anexo 6",
+      "area": "indefinido"
+    },
+    {
+      "termo": "projeto de monitoramento de praias pmp",
+      "area": "ambiental"
+    },
+    {
+      "termo": "projeto de monitoramento de cetaceos pmc",
+      "area": "ambiental"
+    },
+    {
+      "termo": "base de apoio maritimo",
+      "area": "técnico"
+    },
+    {
+      "termo": "estudo de impacto ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "legislacao e planos e programas aplicaveis",
+      "area": "econômico"
+    },
+    {
+      "termo": "resolucoes conama no 35705 e no 43011",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fpso unidade de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "bloco de libra",
+      "area": "técnico"
+    },
+    {
+      "termo": "imp 4",
+      "area": "técnico"
+    },
+    {
+      "termo": "resolucao conama no 39307",
+      "area": "ambiental"
+    },
+    {
+      "termo": "resolucao conama 3572005",
+      "area": "ambiental"
+    },
+    {
+      "termo": "projeto de monitoramento ambiental pma",
+      "area": "ambiental"
+    },
+    {
+      "termo": "modelos numericos",
+      "area": "técnico"
+    },
+    {
+      "termo": "resolucao conama 39808",
+      "area": "ambiental"
+    },
+    {
+      "termo": "anexo c",
+      "area": "indefinido"
+    },
+    {
+      "termo": "bacia de santos",
+      "area": "técnico"
+    },
+    {
+      "termo": "modelo de dispersao de oleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano de gerenciamento de riscos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "simulacoes probabilisticas de vazamento de oleo",
+      "area": "técnico"
+    },
+    {
+      "termo": "modelagens de dispersao de oleo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "manchas de oleo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "simulacoes probabilisticas",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano nacional de gerenciamento costeiro ii pngc ii",
+      "area": "ambiental"
+    },
+    {
+      "termo": "projeto de gestao integrada da orla maritima projeto orla",
+      "area": "ambiental"
+    },
+    {
+      "termo": "plano nacional de gerenciamento costeiro lei federal no 766188",
+      "area": "ambiental"
+    },
+    {
+      "termo": "estruturas",
+      "area": "técnico"
+    },
+    {
+      "termo": "resex marinha de arraial do cabo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "projetos ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "reserva extrativista marinha de itaipu",
+      "area": "ambiental"
+    },
+    {
+      "termo": "monumento natural das ilhas das cagarras",
+      "area": "ambiental"
+    },
+    {
+      "termo": "programa de comunicacao social regional da bacia de santos pcsrbs",
+      "area": "social"
+    },
+    {
+      "termo": "equipamentos de pesca",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pea rio programa de educacao ambiental do rio de janeiro",
+      "area": "ambiental"
+    },
+    {
+      "termo": "peabc programa de educacao ambiental da bacia de campos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "relatorio parcial do projeto de monitoramento do trafego de embarcacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "instrumentos de comunicacao e seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "porto docas do rio",
+      "area": "técnico"
+    },
+    {
+      "termo": "parque estadual da serra da tiririca",
+      "area": "ambiental"
+    },
+    {
+      "termo": "lei no 128152013 nova lei dos portos",
+      "area": "econômico"
+    },
+    {
+      "termo": "plano de aceleracao do crescimento pac 2",
+      "area": "econômico"
+    },
+    {
+      "termo": "programa de investimentos em logistica",
+      "area": "econômico"
+    },
+    {
+      "termo": "servicos",
+      "area": "indefinido"
+    },
+    {
+      "termo": "bases de apoio maritimo e aereo",
+      "area": "técnico"
+    },
+    {
+      "termo": "plano diretor municipal",
+      "area": "econômico"
+    },
+    {
+      "termo": "manual de gerenciamento de residuos da petrobras mgr",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "relatorio do pcp da unidade de operacoes de exploracao e producao da bacia de santos uobs",
+      "area": "técnico"
+    },
+    {
+      "termo": "big bags",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "aterros industriais",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "aterros sanitarios",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "plano nacional de residuos solidos pnrs",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "quadro ii622110",
+      "area": "indefinido"
+    },
+    {
+      "termo": "relatorios de implementacao do projeto de controle da poluicao da petrobras na bacia de santos 20132014",
+      "area": "ambiental"
+    },
+    {
+      "termo": "nt 012011",
+      "area": "indefinido"
+    },
+    {
+      "termo": "projetos de educacao ambiental pea",
+      "area": "ambiental"
+    },
+    {
+      "termo": "projeto de comunicacao social pcs",
+      "area": "social"
+    },
+    {
+      "termo": "uep",
+      "area": "técnico"
+    },
+    {
+      "termo": "pescado",
+      "area": "ambiental"
+    },
+    {
+      "termo": "dissertacao de mestrado",
+      "area": "indefinido"
+    },
+    {
+      "termo": "artigos cientificos",
+      "area": "técnico"
+    },
+    {
+      "termo": "manuais",
+      "area": "técnico"
+    },
+    {
+      "termo": "jatos de agua",
+      "area": "técnico"
+    },
+    {
+      "termo": "avental de pvc",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "mascara respiratoria",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "vestuario de protecao pessoal",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "po de extincao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "espuma resistente ao alcool",
+      "area": "técnico"
+    },
+    {
+      "termo": "areia",
+      "area": "técnico"
+    },
+    {
+      "termo": "absorventes universais",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "sistemas de ventilacao local",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "luvas",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "serragem",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "abnt nbr 147231 2009",
+      "area": "técnico"
+    },
+    {
+      "termo": "manual de seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "barreiras de contencao",
+      "area": "técnico"
+    },
+    {
+      "termo": "registros fotograficos",
+      "area": "técnico"
+    },
+    {
+      "termo": "mapas esquematicos",
+      "area": "técnico"
+    },
+    {
+      "termo": "pocos 1rib1es 3rib2es 3rib3es",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 3 situacao dos pocos",
+      "area": "técnico"
+    },
+    {
+      "termo": "recipiente adequado para residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "oficio anp n 1512021ssmcmassmanprje",
+      "area": "indefinido"
+    },
+    {
+      "termo": "pocos 1pv1ba 3pv2ba 7pv3ba 7pv8ba 7pv5ba 7pv6ba 7pv7ba 2pvst1ba 2pvst2ba 2pvst3ba",
+      "area": "técnico"
+    },
+    {
+      "termo": "rodovia ba531",
+      "area": "técnico"
+    },
+    {
+      "termo": "programa de desativacao das instalacoes do campo de producao paramirim do vencimento",
+      "area": "técnico"
+    },
+    {
+      "termo": "antepoco",
+      "area": "técnico"
+    },
+    {
+      "termo": "poco 7pv5ba",
+      "area": "técnico"
+    },
+    {
+      "termo": "general arrangement da p32",
+      "area": "técnico"
+    },
+    {
+      "termo": "mapa",
+      "area": "técnico"
+    },
+    {
+      "termo": "equipamentos do sistema submarino",
+      "area": "técnico"
+    },
+    {
+      "termo": "bacia de campos",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistemas pliant wave",
+      "area": "técnico"
+    },
+    {
+      "termo": "oficio n 01622020coprodcgmacdilic",
+      "area": "indefinido"
+    },
+    {
+      "termo": "mismrl1",
+      "area": "indefinido"
+    },
+    {
+      "termo": "mismrl2",
+      "area": "indefinido"
+    },
+    {
+      "termo": "spool rigido",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 5ii",
+      "area": "indefinido"
+    },
+    {
+      "termo": "plet",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso p47",
+      "area": "técnico"
+    },
+    {
+      "termo": "diagrama unifilar du",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 621i",
+      "area": "indefinido"
+    },
+    {
+      "termo": "carta uobc 02662020",
+      "area": "indefinido"
+    },
+    {
+      "termo": "figura 623i",
+      "area": "indefinido"
+    },
+    {
+      "termo": "p18",
+      "area": "indefinido"
+    },
+    {
+      "termo": "p20",
+      "area": "técnico"
+    },
+    {
+      "termo": "p27",
+      "area": "técnico"
+    },
+    {
+      "termo": "p47",
+      "area": "indefinido"
+    },
+    {
+      "termo": "capitulo 66",
+      "area": "técnico"
+    },
+    {
+      "termo": "capitulo 918",
+      "area": "indefinido"
+    },
+    {
+      "termo": "sistema de vent",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 913i",
+      "area": "indefinido"
+    },
+    {
+      "termo": "projeto de prevencao e controle de especies exoticas ppcex",
+      "area": "ambiental"
+    },
+    {
+      "termo": "capitulo 82",
+      "area": "econômico"
+    },
+    {
+      "termo": "solucoesteste",
+      "area": "indefinido"
+    },
+    {
+      "termo": "programa de descomissionamento de instalacoes maritimas fpso p32",
+      "area": "técnico"
+    },
+    {
+      "termo": "conexoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "sucatas submarinas",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "sistema de producao de marlim",
+      "area": "técnico"
+    },
+    {
+      "termo": "equipamentos topside",
+      "area": "técnico"
+    },
+    {
+      "termo": "peat",
+      "area": "ambiental"
+    },
+    {
+      "termo": "planos de emergencia individual de resposta a emergencias para vazamento de oleo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "programas de inspecao e manutencao",
+      "area": "técnico"
+    },
+    {
+      "termo": "cadastro tecnico federal",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 02",
+      "area": "indefinido"
+    },
+    {
+      "termo": "imagem 3 localizacao dos pontos 3 e 4",
+      "area": "técnico"
+    },
+    {
+      "termo": "solo contaminado",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pdi conceitual descomissionamento dos sistemas de producao de marlim e voador",
+      "area": "técnico"
+    },
+    {
+      "termo": "procedimentos",
+      "area": "técnico"
+    },
+    {
+      "termo": "mapa faciologico dos campos de marlim e voador",
+      "area": "técnico"
+    },
+    {
+      "termo": "plataformas p18 p19 p20 p26 p27 p32 p33 p35 p37 p47",
+      "area": "técnico"
+    },
+    {
+      "termo": "linhas flexiveis dutos flexiveis e umbilicais",
+      "area": "técnico"
+    },
+    {
+      "termo": "semissubmersivel p18",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso p37",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso p35",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 63iii",
+      "area": "indefinido"
+    },
+    {
+      "termo": "figura 63x",
+      "area": "indefinido"
+    },
+    {
+      "termo": "anexo 3",
+      "area": "indefinido"
+    },
+    {
+      "termo": "unidades de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 81ii",
+      "area": "indefinido"
+    },
+    {
+      "termo": "rotas de navegacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "patio de descomissionamento",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "tabela 824i",
+      "area": "indefinido"
+    },
+    {
+      "termo": "substrato",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 83iv",
+      "area": "indefinido"
+    },
+    {
+      "termo": "projetos de descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "documentos",
+      "area": "indefinido"
+    },
+    {
+      "termo": "figura 914ii",
+      "area": "indefinido"
+    },
+    {
+      "termo": "rdis",
+      "area": "técnico"
+    },
+    {
+      "termo": "dutos de coleta e exportacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "planos de emergencia individual da plataforma de resposta a emergencias da plataforma para vazamento de oleo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "procedimentos de movimentacao de cargas",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "diagramas",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso fluminense",
+      "area": "técnico"
+    },
+    {
+      "termo": "campos de bijupira e salema",
+      "area": "técnico"
+    },
+    {
+      "termo": "anexo ii",
+      "area": "indefinido"
+    },
+    {
+      "termo": "documentacao de seguranca operacional dso sgso",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "manifolds de producao e injecao de agua",
+      "area": "técnico"
+    },
+    {
+      "termo": "arvores submarinas xt",
+      "area": "técnico"
+    },
+    {
+      "termo": "tubing head spool ths",
+      "area": "técnico"
+    },
+    {
+      "termo": "jumpers",
+      "area": "técnico"
+    },
+    {
+      "termo": "flying leads",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 4234",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tabela 4251 analise de sensibilidade grupo 1 resultados com criterio economico excluido",
+      "area": "econômico"
+    },
+    {
+      "termo": "relatorio modelagem da dispersao de solidos resultantes da atividade de descomissionamento anexo x",
+      "area": "ambiental"
+    },
+    {
+      "termo": "anexo x",
+      "area": "indefinido"
+    },
+    {
+      "termo": "nitshore",
+      "area": "indefinido"
+    },
+    {
+      "termo": "anexo b",
+      "area": "indefinido"
+    },
+    {
+      "termo": "figura 7411",
+      "area": "indefinido"
+    },
+    {
+      "termo": "parecer tecnico n 2842018coprodcgmacdil1c",
+      "area": "técnico"
+    },
+    {
+      "termo": "separador de gas",
+      "area": "técnico"
+    },
+    {
+      "termo": "modulos de processo",
+      "area": "técnico"
+    },
+    {
+      "termo": "manifold de injecao de agua",
+      "area": "técnico"
+    },
+    {
+      "termo": "1o estagio do compressor de gas principal main gas compression 1st stage",
+      "area": "técnico"
+    },
+    {
+      "termo": "barcacas",
+      "area": "técnico"
+    },
+    {
+      "termo": "apendice c",
+      "area": "indefinido"
+    },
+    {
+      "termo": "figura 310",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela b16",
+      "area": "técnico"
+    },
+    {
+      "termo": "apendice 1",
+      "area": "indefinido"
+    },
+    {
+      "termo": "figura 4",
+      "area": "indefinido"
+    },
+    {
+      "termo": "bjsa2012insp1",
+      "area": "indefinido"
+    },
+    {
+      "termo": "fundo do mar",
+      "area": "técnico"
+    },
+    {
+      "termo": "cascalho biogenico",
+      "area": "ambiental"
+    },
+    {
+      "termo": "bjsa2017inspcoral",
+      "area": "indefinido"
+    },
+    {
+      "termo": "coral vivo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "aratu utm24s 20824",
+      "area": "indefinido"
+    },
+    {
+      "termo": "mapa de indice",
+      "area": "técnico"
+    },
+    {
+      "termo": "sonar de varredura lateral",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 6",
+      "area": "indefinido"
+    },
+    {
+      "termo": "modelo roms",
+      "area": "técnico"
+    },
+    {
+      "termo": "modelo dreampartrack",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 101 rosas mensais de correntes em 200 metros de profundidade para o ponto 3 na bacia de campos",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 126",
+      "area": "indefinido"
+    },
+    {
+      "termo": "estrutura 031 bijupira production flowlines",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 21 relacao entre os aspectos ambientais fatores ambientais e impactos ambientais identificados",
+      "area": "ambiental"
+    },
+    {
+      "termo": "tabela 23 matriz de impactos ambientais cenario operacional",
+      "area": "ambiental"
+    },
+    {
+      "termo": "tabela 24 projetos ambientais propostos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "anexo a",
+      "area": "indefinido"
+    },
+    {
+      "termo": "relatorio de analise ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "colunas",
+      "area": "técnico"
+    },
+    {
+      "termo": "balsas",
+      "area": "técnico"
+    },
+    {
+      "termo": "pipelinehd1",
+      "area": "técnico"
+    },
+    {
+      "termo": "projetos",
+      "area": "técnico"
+    },
+    {
+      "termo": "microscopio estereoscopico",
+      "area": "técnico"
+    },
+    {
+      "termo": "cabeca de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "isca",
+      "area": "técnico"
+    },
+    {
+      "termo": "pocos 4mgl1ba 3mgl2ba 3mgl3ba",
+      "area": "técnico"
+    },
+    {
+      "termo": "tabela 4 nao apresentada no texto mas referenciada",
+      "area": "indefinido"
+    },
+    {
+      "termo": "plataforma aratum 2 part2",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistemas submarinos associados",
+      "area": "técnico"
+    },
+    {
+      "termo": "poco 1rns48",
+      "area": "técnico"
+    },
+    {
+      "termo": "oleoduto ol 4 part2maa",
+      "area": "técnico"
+    },
+    {
+      "termo": "lancador de pig",
+      "area": "técnico"
+    },
+    {
+      "termo": "arvore de natal seca ans",
+      "area": "técnico"
+    },
+    {
+      "termo": "plataforma part2",
+      "area": "técnico"
+    },
+    {
+      "termo": "estacao coletora de macau",
+      "area": "técnico"
+    },
+    {
+      "termo": "lancador de pig provisorio",
+      "area": "técnico"
+    },
+    {
+      "termo": "jaqueta",
+      "area": "técnico"
+    },
+    {
+      "termo": "revestimentos do poco",
+      "area": "técnico"
+    },
+    {
+      "termo": "barco de apoio de 35 bp",
+      "area": "técnico"
+    },
+    {
+      "termo": "quadro 711",
+      "area": "técnico"
+    },
+    {
+      "termo": "figura 7124",
+      "area": "indefinido"
+    },
+    {
+      "termo": "quadro 7124",
+      "area": "indefinido"
+    }
+  ],
+  "atores": [
+    {
+      "termo": "responsaveis pelo projeto de descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "responsaveis tecnicos",
+      "area": "técnico"
+    },
+    {
+      "termo": "operador",
+      "area": "técnico"
+    },
+    {
+      "termo": "ibama",
+      "area": "ambiental"
+    },
+    {
+      "termo": "anp",
+      "area": "econômico"
+    },
+    {
+      "termo": "marinha do brasil",
+      "area": "indefinido"
+    },
+    {
+      "termo": "petrobras",
+      "area": "econômico"
+    },
+    {
+      "termo": "comunidades da area de influencia do empreendimento",
+      "area": "social"
+    },
+    {
+      "termo": "empresas prestadoras de servicos",
+      "area": "econômico"
+    },
+    {
+      "termo": "anp agencia nacional do petroleo gas natural e biocombustiveis",
+      "area": "econômico"
+    },
+    {
+      "termo": "proprietario petroleo brasileiro sa petrobras",
+      "area": "econômico"
+    },
+    {
+      "termo": "operador petroleo brasileiro sa petrobras",
+      "area": "econômico"
+    },
+    {
+      "termo": "tecnico",
+      "area": "técnico"
+    },
+    {
+      "termo": "rov veiculo operado remotamente",
+      "area": "técnico"
+    },
+    {
+      "termo": "inspetores",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "operadores",
+      "area": "técnico"
+    },
+    {
+      "termo": "responsaveis pelo descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "trabalhadores",
+      "area": "social"
+    },
+    {
+      "termo": "rov remotely operated vehicle operador",
+      "area": "técnico"
+    },
+    {
+      "termo": "tecnico da area de engenharia submarina da petrobras",
+      "area": "técnico"
+    },
+    {
+      "termo": "equipe de descomissionamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "operadores de rov",
+      "area": "técnico"
+    },
+    {
+      "termo": "licitantes",
+      "area": "econômico"
+    },
+    {
+      "termo": "autoridade maritima",
+      "area": "técnico"
+    },
+    {
+      "termo": "empresas contratadas",
+      "area": "econômico"
+    },
+    {
+      "termo": "orgao ambiental ibama",
+      "area": "ambiental"
+    },
+    {
+      "termo": "operadores de embarcacoes",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "rov",
+      "area": "técnico"
+    },
+    {
+      "termo": "sociedade classificadora",
+      "area": "técnico"
+    },
+    {
+      "termo": "ahts a",
+      "area": "técnico"
+    },
+    {
+      "termo": "ahts b",
+      "area": "técnico"
+    },
+    {
+      "termo": "rebocadores",
+      "area": "técnico"
+    },
+    {
+      "termo": "cnen comissao nacional de energia nuclear",
+      "area": "econômico"
+    },
+    {
+      "termo": "tripulacoes",
+      "area": "social"
+    },
+    {
+      "termo": "anvisa",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipe de bordo",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "rov remotely operated vehicle",
+      "area": "técnico"
+    },
+    {
+      "termo": "autoridade maritima brasileira",
+      "area": "ambiental"
+    },
+    {
+      "termo": "auv autonomous underwater vehicle",
+      "area": "técnico"
+    },
+    {
+      "termo": "analistas",
+      "area": "indefinido"
+    },
+    {
+      "termo": "ibama instituto brasileiro do meio ambiente e dos recursos naturais renovaveis",
+      "area": "ambiental"
+    },
+    {
+      "termo": "responsavel",
+      "area": "indefinido"
+    },
+    {
+      "termo": "pescadores",
+      "area": "social"
+    },
+    {
+      "termo": "ferreira fabio",
+      "area": "indefinido"
+    },
+    {
+      "termo": "barreto alessandra",
+      "area": "indefinido"
+    },
+    {
+      "termo": "aguiar rodrigo",
+      "area": "indefinido"
+    },
+    {
+      "termo": "j manoel",
+      "area": "indefinido"
+    },
+    {
+      "termo": "fsilva",
+      "area": "indefinido"
+    },
+    {
+      "termo": "elima",
+      "area": "técnico"
+    },
+    {
+      "termo": "operador concessionario petroleo brasileiro sa petrobras",
+      "area": "econômico"
+    },
+    {
+      "termo": "auditores",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tecnicos de manutencao",
+      "area": "técnico"
+    },
+    {
+      "termo": "forca de trabalho",
+      "area": "social"
+    },
+    {
+      "termo": "coordenador da emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "grupos de acao",
+      "area": "social"
+    },
+    {
+      "termo": "plataforma de producao",
+      "area": "técnico"
+    },
+    {
+      "termo": "navios aliviadores",
+      "area": "técnico"
+    },
+    {
+      "termo": "sistema de deteccao de fogo e gas",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "mergulhador",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "veiculo de operacao submarina",
+      "area": "técnico"
+    },
+    {
+      "termo": "salles",
+      "area": "indefinido"
+    },
+    {
+      "termo": "solicitante",
+      "area": "indefinido"
+    },
+    {
+      "termo": "vitima",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "medico",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "centro de informacao toxicologica",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipe de combate a incendio",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pessoal de servico de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pessoal que nao faz parte dos servicos de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "usuario",
+      "area": "indefinido"
+    },
+    {
+      "termo": "embarcacoes de apoio",
+      "area": "técnico"
+    },
+    {
+      "termo": "pevo da unbc",
+      "area": "técnico"
+    },
+    {
+      "termo": "tecnico de manutencao implicito",
+      "area": "técnico"
+    },
+    {
+      "termo": "equipe tecnica responsavel pela elaboracao da avaliacao de impacto ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "equipe de manutencao",
+      "area": "técnico"
+    },
+    {
+      "termo": "responsaveis pelo planejamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "equipe de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "operadores de embarcacoes de apoio",
+      "area": "técnico"
+    },
+    {
+      "termo": "operadores de fpso",
+      "area": "técnico"
+    },
+    {
+      "termo": "pessoal de manutencao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "responsavel pelo plano de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "treinador",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipe de resposta a emergencias",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "operadores de equipamentos",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pessoal de treinamento",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "planejadores de operacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "observadores de operacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "responsaveis por seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipe de treinamento",
+      "area": "social"
+    },
+    {
+      "termo": "responsaveis pela operacao e manutencao de equipamentos",
+      "area": "técnico"
+    },
+    {
+      "termo": "gma grupo de monitoramento ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "aves marinhas",
+      "area": "ambiental"
+    },
+    {
+      "termo": "quelonios marinhos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "cetaceos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "icmbio",
+      "area": "ambiental"
+    },
+    {
+      "termo": "responsaveis pelo licenciamento ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "mma ministerio do meio ambiente",
+      "area": "ambiental"
+    },
+    {
+      "termo": "gabriel cezario analista quimicoa",
+      "area": "indefinido"
+    },
+    {
+      "termo": "analista quimicoa",
+      "area": "técnico"
+    },
+    {
+      "termo": "cliente",
+      "area": "econômico"
+    },
+    {
+      "termo": "comunidades da area de influencia",
+      "area": "social"
+    },
+    {
+      "termo": "poder publico",
+      "area": "social"
+    },
+    {
+      "termo": "pescadores artesanais",
+      "area": "social"
+    },
+    {
+      "termo": "turistas",
+      "area": "social"
+    },
+    {
+      "termo": "operadores portuarios",
+      "area": "econômico"
+    },
+    {
+      "termo": "comunidades",
+      "area": "social"
+    },
+    {
+      "termo": "povos indigenas",
+      "area": "social"
+    },
+    {
+      "termo": "fornecedores",
+      "area": "econômico"
+    },
+    {
+      "termo": "governo federal",
+      "area": "econômico"
+    },
+    {
+      "termo": "publico interno",
+      "area": "social"
+    },
+    {
+      "termo": "parceiros de negocio",
+      "area": "econômico"
+    },
+    {
+      "termo": "banco do brasil",
+      "area": "econômico"
+    },
+    {
+      "termo": "banco do nordeste",
+      "area": "indefinido"
+    },
+    {
+      "termo": "banco nacional do desenvolvimento economico e social",
+      "area": "econômico"
+    },
+    {
+      "termo": "caixa economica",
+      "area": "econômico"
+    },
+    {
+      "termo": "correios",
+      "area": "indefinido"
+    },
+    {
+      "termo": "eletrobras",
+      "area": "econômico"
+    },
+    {
+      "termo": "ministerio dos direitos humanos",
+      "area": "social"
+    },
+    {
+      "termo": "procuradoria geral da republica",
+      "area": "social"
+    },
+    {
+      "termo": "ministerio publico do trabalho",
+      "area": "social"
+    },
+    {
+      "termo": "ong afrobras",
+      "area": "ambiental"
+    },
+    {
+      "termo": "faculdade zumbi dos palmares",
+      "area": "indefinido"
+    },
+    {
+      "termo": "conselho nacional de justica cnj",
+      "area": "indefinido"
+    },
+    {
+      "termo": "gerencia regional de relacionamento comunitario para o rio de janeiro minas gerais e espirito santo rsrcrsrjmges",
+      "area": "social"
+    },
+    {
+      "termo": "gerencia executiva de responsabilidade social",
+      "area": "social"
+    },
+    {
+      "termo": "gerencia executiva de comunicacao e marcas",
+      "area": "social"
+    },
+    {
+      "termo": "liderancas comunitarias",
+      "area": "social"
+    },
+    {
+      "termo": "comunidades tradicionais",
+      "area": "social"
+    },
+    {
+      "termo": "equipes tecnicas",
+      "area": "técnico"
+    },
+    {
+      "termo": "costureiras",
+      "area": "indefinido"
+    },
+    {
+      "termo": "pessoa fisica",
+      "area": "social"
+    },
+    {
+      "termo": "conselho de fiscalizacao profissional",
+      "area": "social"
+    },
+    {
+      "termo": "instituicoes federais estaduais distritais ou municipais",
+      "area": "econômico"
+    },
+    {
+      "termo": "petroleo brasileiro sa petrobras",
+      "area": "econômico"
+    },
+    {
+      "termo": "unidade de negocios de exploracao e producao da bahia unba",
+      "area": "econômico"
+    },
+    {
+      "termo": "superficiarios",
+      "area": "técnico"
+    },
+    {
+      "termo": "adriano",
+      "area": "indefinido"
+    },
+    {
+      "termo": "gesica",
+      "area": "indefinido"
+    },
+    {
+      "termo": "grazielle",
+      "area": "indefinido"
+    },
+    {
+      "termo": "thales aragao",
+      "area": "indefinido"
+    },
+    {
+      "termo": "proprietario",
+      "area": "econômico"
+    },
+    {
+      "termo": "contratado",
+      "area": "econômico"
+    },
+    {
+      "termo": "inema instituto do meio ambiente e recursos hidricos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "onu",
+      "area": "indefinido"
+    },
+    {
+      "termo": "diversos atores que integram a rede de protecao a infancia no brasil",
+      "area": "social"
+    },
+    {
+      "termo": "engenheiro",
+      "area": "técnico"
+    },
+    {
+      "termo": "dimas resende",
+      "area": "indefinido"
+    },
+    {
+      "termo": "jader macartney",
+      "area": "indefinido"
+    },
+    {
+      "termo": "marcos dias",
+      "area": "técnico"
+    },
+    {
+      "termo": "pessoal de emergencia",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "fabricante",
+      "area": "econômico"
+    },
+    {
+      "termo": "empregado",
+      "area": "social"
+    },
+    {
+      "termo": "empresa",
+      "area": "econômico"
+    },
+    {
+      "termo": "bombeiros",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "autoridades competentes",
+      "area": "indefinido"
+    },
+    {
+      "termo": "usuarios do produto",
+      "area": "social"
+    },
+    {
+      "termo": "laboratorio",
+      "area": "técnico"
+    },
+    {
+      "termo": "prestador de socorro",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pessoal treinado",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "embarcadorexpedidorremetente",
+      "area": "econômico"
+    },
+    {
+      "termo": "orgao ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "laboratorio contratado analytical technology servicos analiticos e ambientais ltda",
+      "area": "ambiental"
+    },
+    {
+      "termo": "responsavel pelo descarte",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "engo seg joao mario fernandes de jesus supervisor de protecao radiologica cnen",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "municipios da bacia de campos",
+      "area": "indefinido"
+    },
+    {
+      "termo": "comunidades afetadas",
+      "area": "social"
+    },
+    {
+      "termo": "pescadores industriais",
+      "area": "social"
+    },
+    {
+      "termo": "representantes da sociedade civil",
+      "area": "social"
+    },
+    {
+      "termo": "governo",
+      "area": "econômico"
+    },
+    {
+      "termo": "universidades",
+      "area": "social"
+    },
+    {
+      "termo": "imprensa",
+      "area": "técnico"
+    },
+    {
+      "termo": "trabalhadores no mar",
+      "area": "social"
+    },
+    {
+      "termo": "trabalhadores em terra",
+      "area": "social"
+    },
+    {
+      "termo": "publico em terra",
+      "area": "ambiental"
+    },
+    {
+      "termo": "analista quimicoa tamiris da silva dias",
+      "area": "indefinido"
+    },
+    {
+      "termo": "embarcacao de servicoapoio",
+      "area": "técnico"
+    },
+    {
+      "termo": "helicoptero",
+      "area": "técnico"
+    },
+    {
+      "termo": "responsavel pela operacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "responsavel pela seguranca",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "responsaveis pelo planejamento da operacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "tripulacao de embarcacoes",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "pilotos de helicoptero",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "ibama ctfaida",
+      "area": "ambiental"
+    },
+    {
+      "termo": "thales aragao aprovacao",
+      "area": "indefinido"
+    },
+    {
+      "termo": "empresa creative energy ltda",
+      "area": "econômico"
+    },
+    {
+      "termo": "responsabilidade social departamento ou funcao",
+      "area": "social"
+    },
+    {
+      "termo": "empresa especializada",
+      "area": "indefinido"
+    },
+    {
+      "termo": "gerente setorial",
+      "area": "social"
+    },
+    {
+      "termo": "concessionario",
+      "area": "econômico"
+    },
+    {
+      "termo": "operador de guindaste",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "comunidades locais",
+      "area": "social"
+    },
+    {
+      "termo": "equipe de profissionais permanentes das embarcacoes",
+      "area": "social"
+    },
+    {
+      "termo": "tecnicos responsaveis pelo estudo de impacto ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "setor privado",
+      "area": "econômico"
+    },
+    {
+      "termo": "autoridades ambientais ibama mma",
+      "area": "ambiental"
+    },
+    {
+      "termo": "tartarugas marinhas",
+      "area": "ambiental"
+    },
+    {
+      "termo": "fpso unidade flutuante de producao armazenamento e descarregamento",
+      "area": "técnico"
+    },
+    {
+      "termo": "fpso",
+      "area": "técnico"
+    },
+    {
+      "termo": "embarcacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "tripulacao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "organizacao maritima internacional imo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "antag agencia nacional de transportes aquaviarios",
+      "area": "econômico"
+    },
+    {
+      "termo": "navios",
+      "area": "técnico"
+    },
+    {
+      "termo": "profissionais envolvidos na atividade",
+      "area": "social"
+    },
+    {
+      "termo": "tripulacao da embarcacao",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "equipe de profissionais permanente embarcacoes de apoio e fpso",
+      "area": "técnico"
+    },
+    {
+      "termo": "agencia nacional de petroleo anp",
+      "area": "econômico"
+    },
+    {
+      "termo": "cgpegibama",
+      "area": "indefinido"
+    },
+    {
+      "termo": "trabalhadores envolvidos na atividade",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "quelonios",
+      "area": "ambiental"
+    },
+    {
+      "termo": "tecnicos ambientais",
+      "area": "ambiental"
+    },
+    {
+      "termo": "embarcacoes",
+      "area": "técnico"
+    },
+    {
+      "termo": "peixes",
+      "area": "ambiental"
+    },
+    {
+      "termo": "responsaveis pelo projeto de controle da poluicao pcp",
+      "area": "ambiental"
+    },
+    {
+      "termo": "responsaveis pelo projeto de educacao ambiental dos trabalhadores peat",
+      "area": "social"
+    },
+    {
+      "termo": "organismos bentonicos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "aves",
+      "area": "ambiental"
+    },
+    {
+      "termo": "ictiofauna",
+      "area": "ambiental"
+    },
+    {
+      "termo": "modeladores",
+      "area": "técnico"
+    },
+    {
+      "termo": "tartarugas",
+      "area": "ambiental"
+    },
+    {
+      "termo": "mamiferos marinhos",
+      "area": "ambiental"
+    },
+    {
+      "termo": "projeto tamar",
+      "area": "ambiental"
+    },
+    {
+      "termo": "unesco",
+      "area": "indefinido"
+    },
+    {
+      "termo": "comunidades pesqueiras",
+      "area": "social"
+    },
+    {
+      "termo": "equipe multidisciplinar",
+      "area": "social"
+    },
+    {
+      "termo": "populacao local",
+      "area": "social"
+    },
+    {
+      "termo": "embarcacao plsv",
+      "area": "técnico"
+    },
+    {
+      "termo": "marinha mercante",
+      "area": "econômico"
+    },
+    {
+      "termo": "populacao",
+      "area": "social"
+    },
+    {
+      "termo": "governo federal brasileiro",
+      "area": "econômico"
+    },
+    {
+      "termo": "afretada",
+      "area": "técnico"
+    },
+    {
+      "termo": "empresas destinadoras",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "gerador de residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "transportador",
+      "area": "técnico"
+    },
+    {
+      "termo": "empresas de gerenciamento de residuos",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "trabalhadores do fpso ou embarcacoes",
+      "area": "social"
+    },
+    {
+      "termo": "entidades da sociedade civil",
+      "area": "social"
+    },
+    {
+      "termo": "autoridades",
+      "area": "social"
+    },
+    {
+      "termo": "instituicoes educacionais e cientificas",
+      "area": "social"
+    },
+    {
+      "termo": "tratamento e destinacao final",
+      "area": "gerenciamento de resíduos"
+    },
+    {
+      "termo": "pescadores artesanais e industriais",
+      "area": "social"
+    },
+    {
+      "termo": "ibge instituto brasileiro de geografia e estatistica",
+      "area": "social"
+    },
+    {
+      "termo": "municipios ex arraial do cabo araruama e saquarema",
+      "area": "social"
+    },
+    {
+      "termo": "frotas pesqueiras",
+      "area": "econômico"
+    },
+    {
+      "termo": "statoil",
+      "area": "econômico"
+    },
+    {
+      "termo": "pesquisadores",
+      "area": "indefinido"
+    },
+    {
+      "termo": "autoridades regionais",
+      "area": "econômico"
+    },
+    {
+      "termo": "utilizador",
+      "area": "indefinido"
+    },
+    {
+      "termo": "fabricantefornecedor",
+      "area": "econômico"
+    },
+    {
+      "termo": "equipe medica",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "especialista",
+      "area": "indefinido"
+    },
+    {
+      "termo": "operador implicito",
+      "area": "técnico"
+    },
+    {
+      "termo": "vitor",
+      "area": "técnico"
+    },
+    {
+      "termo": "inema instituto de meio ambiente",
+      "area": "ambiental"
+    },
+    {
+      "termo": "pba projeto",
+      "area": "técnico"
+    },
+    {
+      "termo": "gesica execucao",
+      "area": "técnico"
+    },
+    {
+      "termo": "grazielle verificacao",
+      "area": "indefinido"
+    },
+    {
+      "termo": "tecnicos de inspecao",
+      "area": "técnico"
+    },
+    {
+      "termo": "gerente da plataforma",
+      "area": "técnico"
+    },
+    {
+      "termo": "epservusopsubgdsotgo",
+      "area": "indefinido"
+    },
+    {
+      "termo": "labtox laboratorio de analise ambiental ltda",
+      "area": "ambiental"
+    },
+    {
+      "termo": "labtox laboratorio",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "operadores de plataforma",
+      "area": "técnico"
+    },
+    {
+      "termo": "biologo",
+      "area": "ambiental"
+    },
+    {
+      "termo": "engenheiro ambiental",
+      "area": "ambiental"
+    },
+    {
+      "termo": "dnvgl",
+      "area": "técnico"
+    },
+    {
+      "termo": "industria",
+      "area": "econômico"
+    },
+    {
+      "termo": "orgaos reguladores",
+      "area": "econômico"
+    },
+    {
+      "termo": "fiperj",
+      "area": "indefinido"
+    },
+    {
+      "termo": "shell",
+      "area": "técnico"
+    },
+    {
+      "termo": "shell brasil petroleo ltda",
+      "area": "econômico"
+    },
+    {
+      "termo": "trabalhadores offshore",
+      "area": "social"
+    },
+    {
+      "termo": "shell upstream americas",
+      "area": "econômico"
+    },
+    {
+      "termo": "sbpl",
+      "area": "técnico"
+    },
+    {
+      "termo": "entreprise oil",
+      "area": "indefinido"
+    },
+    {
+      "termo": "proprietario shell upstream americas",
+      "area": "econômico"
+    },
+    {
+      "termo": "inspetor",
+      "area": "saúde e segurança"
+    },
+    {
+      "termo": "fabio m belligotti",
+      "area": "indefinido"
+    },
+    {
+      "termo": "geomatics americas",
+      "area": "técnico"
+    },
+    {
+      "termo": "inspetorpesquisador",
+      "area": "técnico"
+    },
+    {
+      "termo": "aecom",
+      "area": "indefinido"
+    },
+    {
+      "termo": "empresas de servicos de informacao esri anpbdep eou ihs",
+      "area": "técnico"
+    },
+    {
+      "termo": "ana carolina rochinha boechat",
+      "area": "indefinido"
+    },
+    {
+      "termo": "henery ferreira garcao",
+      "area": "indefinido"
+    },
+    {
+      "termo": "marcelo montenegro cabral",
+      "area": "indefinido"
+    },
+    {
+      "termo": "prooceano",
+      "area": "ambiental"
+    },
+    {
+      "termo": "modelo roms",
+      "area": "técnico"
+    },
+    {
+      "termo": "hrt",
+      "area": "técnico"
+    },
+    {
+      "termo": "shellhabtec",
+      "area": "técnico"
+    },
+    {
+      "termo": "hrtshell",
+      "area": "técnico"
+    },
+    {
+      "termo": "icmbiomma",
+      "area": "indefinido"
+    },
+    {
+      "termo": "cites",
+      "area": "ambiental"
+    },
+    {
+      "termo": "iucn",
+      "area": "ambiental"
+    },
+    {
+      "termo": "mma",
+      "area": "ambiental"
+    },
+    {
+      "termo": "ibge",
+      "area": "indefinido"
+    },
+    {
+      "termo": "coordenacao",
+      "area": "técnico"
+    },
+    {
+      "termo": "3r petroleum",
+      "area": "técnico"
+    },
+    {
+      "termo": "ecology brasil",
+      "area": "ambiental"
+    },
+    {
+      "termo": "responsaveis pelas embarcacoes",
+      "area": "técnico"
+    }
+  ]
+}
