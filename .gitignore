@@ -1,0 +1,28 @@
+# Ignorar ambiente virtual Python
+.venv/
+venv/
+
+# Ignorar arquivos compilados Python
+*.pyc
+__pycache__/
+
+# Ignorar arquivos de configuração e credenciais
+.env
+
+# Ignorar diretórios de dados externos
+extracted-data/
+data-definitions/
+
+# Ignorar arquivos temporários e de sistema
+*.swp
+*.swo
+.DS_Store
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de backup
+*~
+
+# Ignorar arquivos de notebooks temporários
+.ipynb_checkpoints/
